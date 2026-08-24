@@ -1,6 +1,6 @@
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_core.documents import Document
-from langchain_openai import ChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 from pyvis.network import Network
 
 from dotenv import load_dotenv
@@ -11,9 +11,12 @@ import asyncio
 # Load the .env file
 load_dotenv()
 # Get API key from environment variable
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("GOOGLE_API_KEY")
 
-llm = ChatOpenAI(temperature=0, model_name="gpt-4o")
+llm = ChatGoogleGenerativeAI(
+    model="gemini-3.6-flash",
+    temperature=0
+)
 
 graph_transformer = LLMGraphTransformer(llm=llm)
 
