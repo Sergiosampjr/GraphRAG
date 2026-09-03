@@ -1,0 +1,12 @@
+Título
+Objetivo
+Problema
+Pergunta de pesquisa
+Hipóteses
+Variáveis independentes
+Variáveis dependentes
+Arquiteturas
+LLMs
+Domínios
+Métricas
+Protocolo experimental
