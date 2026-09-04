@@ -1,3 +1,7 @@
 git
 .env
 ambiente_virtual/
+# Índices vetoriais FAISS
+*.faiss
+
+data/rag/*.faiss

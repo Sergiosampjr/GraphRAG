@@ -1,0 +1,16 @@
+query_id,query,source,precision_at_10,recall_at_10,mrr_at_10,ndcg_at_10,num_relevantes_qrel
+72,ponderação técnica e preço,expression from LLM question,0.8,0.6666666666666666,1.0,0.8928408478617864,12
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,0.8,0.7272727272727273,1.0,0.8824619776713568,11
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,0.8,0.7272727272727273,1.0,0.8108722789606666,11
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,0.2,0.3333333333333333,1.0,0.8102420089100565,6
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,0.4,0.3076923076923077,1.0,0.8000668691000848,13
+43,padronização marca,search log,0.8,0.5333333333333333,1.0,0.7941486871061263,15
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,0.6,0.4615384615384615,1.0,0.7715851031210844,13
+68,vedado restabelecimento item suprimido,expression from LLM question,0.1,0.1666666666666666,1.0,0.7523106976437837,6
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,0.2,0.1818181818181818,1.0,0.7447586667708298,11
+69,marca aquisição cartuchos,expression from LLM question,0.5,0.4166666666666667,1.0,0.7088755837577004,12
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,0.2,0.1666666666666666,1.0,0.6944551652854406,12
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,0.5,0.4166666666666667,1.0,0.6867708551176969,12
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,0.4,0.4,1.0,0.6832229730609226,10
+20,auditoria interna,search log,0.3,0.2307692307692307,1.0,0.6810996824258109,13
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,0.4,0.3636363636363636,1.0,0.6710832076847897,11
