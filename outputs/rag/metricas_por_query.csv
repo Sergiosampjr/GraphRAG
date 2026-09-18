@@ -1,0 +1,151 @@
+query_id,query,source,precision_at_10,recall_at_10,mrr_at_10,ndcg_at_10,num_relevantes_qrel
+1,técnica e preço,search log,0.2,0.13333333333333333,0.3333333333333333,0.17947710508581735,15
+2,restos a pagar,search log,0.2,0.2857142857142857,1.0,0.21414653288713842,7
+3,aditivo a contrato,search log,0.1,0.06666666666666667,1.0,0.10644837059332632,15
+4,adesão a ata de registro de preços,search log,0.3,0.23076923076923078,0.5,0.31833954895937183,13
+5,sobrepreço e superfaturamento,search log,0.2,0.15384615384615385,0.3333333333333333,0.17630010660342912,13
+6,restrição a competitividade,search log,0.1,0.07142857142857142,0.3333333333333333,0.11004588314904008,14
+7,acréscimos e supressões,search log,0.4,0.36363636363636365,0.25,0.3195496275649209,11
+8,obras e serviços de engenharia,search log,0.1,0.07692307692307693,0.1111111111111111,0.07156539889154033,13
+9,fiscalizacao de contratos,search log,0.1,0.07142857142857142,0.1,0.06872085805045479,14
+10,diarias e passagens,search log,0.2,0.2,1.0,0.34259250973298866,10
+11,bens e serviços comuns,search log,0.0,0.0,0.0,0.0,14
+12,parcelas de maior relevância e valor significativo,search log,0.1,0.07142857142857142,0.125,0.07499707693130266,14
+13,despesa sem cobertura contratual,search log,0.1,0.07142857142857142,1.0,0.22009176629808017,14
+14,decreto-lei 4.657/1942,search log,0.0,0.0,0.0,0.0,10
+15,contas e materialidade,search log,0.1,0.08333333333333333,0.125,0.09248417253031573,12
+16,inexequibilidade e comprovação,search log,0.2,0.16666666666666666,0.25,0.14966626705771463,12
+17,impedimento de licitar e contratar,search log,0.0,0.0,0.0,0.0,12
+18,aditivo e obra,search log,0.2,0.15384615384615385,0.5,0.31122888318283964,13
+19,fraude a licitacao,search log,0.1,0.08333333333333333,0.5,0.13886244387355454,12
+20,auditoria interna,search log,0.3,0.23076923076923078,1.0,0.6810996824258109,13
+21,fracionamento de despesas,search log,0.0,0.0,0.0,0.0,11
+22,novo e improrrogável prazo,search log,0.0,0.0,0.0,0.0,12
+23,inidoneidade de licitante,search log,0.0,0.0,0.0,0.0,12
+24,licitações e contratos,search log,0.0,0.0,0.0,0.0,15
+25,exigência de atestado de capacidade,search log,0.0,0.0,0.0,0.0,14
+26,contrato com a administração pública,search log,0.0,0.0,0.0,0.0,15
+27,inexigibilidade e singularidade,search log,0.3,0.2727272727272727,0.14285714285714285,0.20904936749052636,11
+28,mera participação e epp,search log,0.2,0.18181818181818182,0.5,0.1806407520095203,11
+29,decisão judicial,search log,0.0,0.0,0.0,0.0,15
+30,fiscal de contrato,search log,0.0,0.0,0.0,0.0,13
+31,medida cautelar,search log,0.2,0.15384615384615385,0.5,0.25279635550423724,13
+32,é possível a aplicação concomitante,search log,0.0,0.0,0.0,0.0,13
+33,reajuste de contrato,search log,0.3,0.25,0.5,0.3566630836808567,12
+34,publicidade e concurso público,search log,0.0,0.0,0.0,0.0,11
+35,falecimento e multa,search log,0.3,0.2727272727272727,1.0,0.38363315291837646,11
+36,independência das instâncias,search log,0.2,0.2,0.3333333333333333,0.1903291720738826,10
+37,planejamento estratégico,search log,0.4,0.26666666666666666,1.0,0.5135299778454189,15
+38,sistema s e licitação,search log,0.1,0.06666666666666667,0.16666666666666666,0.10442850971144024,15
+39,citação e validade,search log,0.2,0.15384615384615385,1.0,0.38772926306223404,13
+40,multa a particulares,search log,0.1,0.08333333333333333,0.125,0.10956686694084036,12
+41,licitação e preço de mercado,search log,0.0,0.0,0.0,0.0,15
+42,edital modificação,search log,0.0,0.0,0.0,0.0,15
+43,padronização marca,search log,0.8,0.5333333333333333,1.0,0.7941486871061263,15
+44,interesse recíproco,search log,0.2,0.2,0.5,0.17470754761647528,10
+45,pesquisa de preços,search log,0.2,0.14285714285714285,1.0,0.3589542101716347,14
+46,planilha de custos e formação de preços,search log,0.2,0.14285714285714285,0.3333333333333333,0.2025527526628187,14
+47,publicidade e propaganda,search log,0.3,0.2727272727272727,0.5,0.4327728113994954,11
+48,processo seletivo e sistema s,search log,0.5,0.4166666666666667,1.0,0.6538118379824718,12
+49,modalidade de licitação,search log,0.1,0.06666666666666667,1.0,0.10644837059332632,15
+50,antecipação de pagamento,search log,0.3,0.2727272727272727,0.5,0.2942108957846409,11
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,0.4,0.36363636363636365,0.2,0.2544117885215828,11
+52,citação válida falecimento,expression from LLM question,0.2,0.15384615384615385,1.0,0.31488013066763093,13
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,0.4,0.3333333333333333,0.5,0.419192943120785,12
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,0.4,0.4,0.3333333333333333,0.2701961443956853,10
+55,despesas sem cobertura contratual multa,expression from LLM question,0.1,0.09090909090909091,1.0,0.1474688619215497,11
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,0.4,0.36363636363636365,1.0,0.6710832076847897,11
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,0.2,0.15384615384615385,1.0,0.6506868839141511,13
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,0.1,0.08333333333333333,0.5,0.08543627968186598,12
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,0.1,0.08333333333333333,0.3333333333333333,0.1502212096916958,12
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,0.0,0.0,0.0,0.0,12
+61,projeto de parceria público-privada modalidade,expression from LLM question,0.3,0.23076923076923078,1.0,0.41009171445683557,13
+62,objeto do certame contrato social licitante,expression from LLM question,0.3,0.25,1.0,0.12273481660725231,12
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,0.4,0.26666666666666666,1.0,0.4635652505377661,15
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,0.4,0.3076923076923077,1.0,0.3923027595111151,13
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,0.2,0.14285714285714285,1.0,0.32332854999605887,14
+66,vantajosidade adesão à ata,expression from LLM question,0.1,0.1,0.5,0.14410120516084113,10
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,0.3,0.3,0.3333333333333333,0.26855292289002114,10
+68,vedado restabelecimento item suprimido,expression from LLM question,0.1,0.16666666666666666,1.0,0.7523106976437837,6
+69,marca aquisição cartuchos,expression from LLM question,0.5,0.4166666666666667,1.0,0.7088755837577004,12
+70,SUS recursos União competência do TCU,expression from LLM question,0.1,0.07692307692307693,0.3333333333333333,0.11419750324432956,13
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,0.3,0.2,1.0,0.37343341768020066,15
+72,ponderação técnica e preço,expression from LLM question,0.8,0.6666666666666666,1.0,0.8928408478617864,12
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,0.3,0.23076923076923078,1.0,0.39197722253080763,13
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,0.4,0.4,0.5,0.39254069876954834,10
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,0.3,0.25,1.0,0.5277840059680377,12
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,0.3,0.25,0.5,0.3145161830169477,12
+77,aquisição direta risco a saúde,expression from LLM question,0.0,0.0,0.0,0.0,14
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,0.6,0.46153846153846156,1.0,0.7715851031210844,13
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,0.4,0.3076923076923077,1.0,0.6666268085958206,13
+80,reajuste de preços e repactuação,expression from LLM question,0.4,0.2857142857142857,0.5,0.5095357070022043,14
+81,recomposição reajuste,expression from LLM question,0.2,0.14285714285714285,1.0,0.618556652887613,14
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,0.2,0.2222222222222222,1.0,0.5925454220768419,9
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,0.0,0.0,0.0,0.0,14
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,0.2,0.16666666666666666,1.0,0.22678102984627327,12
+85,técnica e preço profissionais quadro permanente,expression from LLM question,0.2,0.15384615384615385,0.25,0.18358738644908637,13
+86,erro material desclassificação da proposta,expression from LLM question,0.1,0.07692307692307693,0.5,0.0704966689099629,13
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,0.1,0.08333333333333333,0.14285714285714285,0.12303887076067137,12
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,0.2,0.15384615384615385,0.5,0.24673834118487012,13
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,0.4,0.3333333333333333,0.2,0.2271904044507925,12
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,0.3,0.2,1.0,0.6289020340444773,15
+91,controle adesão,expression from LLM question,0.3,0.25,0.2,0.09822593909177707,12
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,0.2,0.18181818181818182,1.0,0.7447586667708298,11
+93,acumulação de cargo secretário municipal professor,expression from LLM question,0.3,0.25,1.0,0.5812500768186984,12
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,0.2,0.14285714285714285,0.5,0.18940922287921388,14
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,0.8,0.7272727272727273,1.0,0.8108722789606666,11
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,0.0,0.0,0.0,0.0,13
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,0.1,0.08333333333333333,1.0,0.5466435799252907,12
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,0.2,0.15384615384615385,1.0,0.1603442772961805,13
+99,contratações de software cartas de exclusividade,expression from LLM question,0.2,0.16666666666666666,1.0,0.6067292040617378,12
+100,assistência médica a servidores,expression from LLM question,0.3,0.2727272727272727,1.0,0.2962880070651351,11
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,0.2,0.2,0.3333333333333333,0.266133198971515,10
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,0.1,0.08333333333333333,1.0,0.2483795313844281,12
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,0.6,0.6,1.0,0.652088188635919,10
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,0.2,0.18181818181818182,0.3333333333333333,0.20483424751859086,11
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,0.1,0.09090909090909091,0.2,0.015569782476208514,11
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,0.4,0.3076923076923077,1.0,0.8000668691000848,13
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,0.2,0.25,1.0,0.6022113840866581,8
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,0.0,0.0,0.0,0.0,13
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,0.1,0.07142857142857142,0.5,0.1644922274565801,14
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,0.5,0.4166666666666667,0.25,0.3865456313624234,12
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,0.2,0.18181818181818182,1.0,0.5437038518731633,11
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,0.4,0.4,0.3333333333333333,0.2897790913790279,10
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,0.5,0.35714285714285715,0.5,0.42966049942379336,14
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,0.4,0.3076923076923077,1.0,0.46423214653414346,13
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,0.3,0.2,1.0,0.48584872933174034,15
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,0.4,0.36363636363636365,1.0,0.4498873763727655,11
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,0.3,0.2727272727272727,0.25,0.2123625795703058,11
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,0.3,0.3,1.0,0.6404910363416297,10
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,0.5,0.4166666666666667,1.0,0.6867708551176969,12
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,0.2,0.16666666666666666,1.0,0.3167502559071482,12
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,0.3,0.23076923076923078,1.0,0.3936751535738512,13
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,0.5,0.45454545454545453,1.0,0.6489315753318466,11
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,0.2,0.15384615384615385,1.0,0.3312106810887373,13
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,0.2,0.18181818181818182,0.3333333333333333,0.12684905669707136,11
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,0.2,0.16666666666666666,1.0,0.6944551652854406,12
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,0.4,0.36363636363636365,0.25,0.31691619230948354,11
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,0.2,0.16666666666666666,0.14285714285714285,0.0939867511658978,12
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,0.5,0.45454545454545453,1.0,0.43807503159152844,11
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,0.3,0.3,1.0,0.6598044472406182,10
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,0.4,0.4,1.0,0.6832229730609226,10
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,0.3,0.3,1.0,0.5489273541685502,10
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,0.2,0.2222222222222222,1.0,0.5925454220768419,9
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,0.0,0.0,0.0,0.0,13
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,0.4,0.3333333333333333,0.25,0.28907353756334914,12
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,0.4,0.3333333333333333,1.0,0.509126868146119,12
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,0.1,0.09090909090909091,0.2,0.043224834641459715,11
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,0.2,0.18181818181818182,1.0,0.5006148650802373,11
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,0.3,0.25,1.0,0.4035015715464803,12
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,0.3,0.3,0.3333333333333333,0.29545751703001255,10
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,0.2,0.16666666666666666,1.0,0.5611931608107448,12
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,0.0,0.0,0.0,0.0,10
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,0.2,0.3333333333333333,1.0,0.8102420089100565,6
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,0.3,0.2727272727272727,1.0,0.5702190054338128,11
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,0.2,0.15384615384615385,0.25,0.20398810787472468,13
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,0.8,0.7272727272727273,1.0,0.8824619776713568,11
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,0.1,0.08333333333333333,0.1111111111111111,0.05122264647231665,12
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,0.1,0.07142857142857142,0.5,0.26847277573676753,14
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,0.4,0.3076923076923077,0.3333333333333333,0.3000587366766396,13
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,0.5,0.4166666666666667,1.0,0.5572490630684727,12
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,0.5,0.45454545454545453,0.25,0.39599795284692,11

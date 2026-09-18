@@ -1,0 +1,1501 @@
+query_id,query,source,rank,doc_id,chunk_id,score_vetorial,qrel_score,julgado
+1,técnica e preço,search log,1,20584,20584_0,0.8592920303344727,,False
+1,técnica e preço,search log,2,33887,33887_0,0.8562681674957275,,False
+1,técnica e preço,search log,3,20506,20506_0,0.8531661033630371,3.0,True
+1,técnica e preço,search log,4,18324,18324_0,0.8525303602218628,,False
+1,técnica e preço,search log,5,20970,20970_1,0.8487247228622437,,False
+1,técnica e preço,search log,6,31526,31526_0,0.848250150680542,,False
+1,técnica e preço,search log,7,21207,21207_0,0.8473246097564697,,False
+1,técnica e preço,search log,8,21064,21064_0,0.8472214341163635,3.0,True
+1,técnica e preço,search log,9,21285,21285_0,0.8470194339752197,,False
+1,técnica e preço,search log,10,18894,18894_0,0.8468400239944458,,False
+2,restos a pagar,search log,1,17289,17289_0,0.8557023406028748,2.0,True
+2,restos a pagar,search log,2,18432,18432_0,0.8513715863227844,,False
+2,restos a pagar,search log,3,32869,32869_0,0.8476557731628418,,False
+2,restos a pagar,search log,4,19084,19084_0,0.8410589098930359,,False
+2,restos a pagar,search log,5,43657,43657_3,0.8380402326583862,,False
+2,restos a pagar,search log,6,52046,52046_3,0.838028609752655,,False
+2,restos a pagar,search log,7,33443,33443_0,0.8362641930580139,,False
+2,restos a pagar,search log,8,19664,19664_0,0.8356010913848877,,False
+2,restos a pagar,search log,9,91275,91275_6,0.8350058794021606,,False
+2,restos a pagar,search log,10,18452,18452_0,0.8343875408172607,2.0,True
+3,aditivo a contrato,search log,1,17225,17225_0,0.8855953216552734,2.0,True
+3,aditivo a contrato,search log,2,18365,18365_0,0.8722047805786133,,False
+3,aditivo a contrato,search log,3,18057,18057_0,0.8715076446533203,,False
+3,aditivo a contrato,search log,4,31123,31123_0,0.8680204153060913,,False
+3,aditivo a contrato,search log,5,20512,20512_1,0.8676760792732239,,False
+3,aditivo a contrato,search log,6,118408,118408_5,0.8657265305519104,,False
+3,aditivo a contrato,search log,7,17210,17210_0,0.8641642332077026,,False
+3,aditivo a contrato,search log,8,17226,17226_0,0.8634607791900635,,False
+3,aditivo a contrato,search log,9,81554,81554_0,0.862267017364502,,False
+3,aditivo a contrato,search log,10,33922,33922_1,0.8621618747711182,,False
+4,adesão a ata de registro de preços,search log,1,20840,20840_0,0.8963577747344971,,False
+4,adesão a ata de registro de preços,search log,2,16981,16981_0,0.8887242674827576,3.0,True
+4,adesão a ata de registro de preços,search log,3,62306,62306_0,0.8834964036941528,3.0,True
+4,adesão a ata de registro de preços,search log,4,4230,4230_0,0.8804340362548828,,False
+4,adesão a ata de registro de preços,search log,5,14510,14510_0,0.8795802593231201,,False
+4,adesão a ata de registro de preços,search log,6,20860,20860_0,0.878266453742981,,False
+4,adesão a ata de registro de preços,search log,7,52275,52275_0,0.8741773366928101,,False
+4,adesão a ata de registro de preços,search log,8,45015,45015_0,0.8740243315696716,3.0,True
+4,adesão a ata de registro de preços,search log,9,21200,21200_2,0.8721575736999512,,False
+4,adesão a ata de registro de preços,search log,10,42169,42169_1,0.8715864419937134,,False
+5,sobrepreço e superfaturamento,search log,1,16262,16262_0,0.8687235116958618,,False
+5,sobrepreço e superfaturamento,search log,2,31126,31126_0,0.8652911186218262,,False
+5,sobrepreço e superfaturamento,search log,3,53003,53003_0,0.8617310523986816,3.0,True
+5,sobrepreço e superfaturamento,search log,4,20990,20990_0,0.8580629825592041,,False
+5,sobrepreço e superfaturamento,search log,5,17023,17023_2,0.8577724695205688,,False
+5,sobrepreço e superfaturamento,search log,6,23515,23515_0,0.8575756549835205,,False
+5,sobrepreço e superfaturamento,search log,7,21100,21100_0,0.857322096824646,,False
+5,sobrepreço e superfaturamento,search log,8,21792,21792_0,0.8563333749771118,,False
+5,sobrepreço e superfaturamento,search log,9,21172,21172_0,0.856240451335907,3.0,True
+5,sobrepreço e superfaturamento,search log,10,21849,21849_0,0.8560048341751099,,False
+6,restrição a competitividade,search log,1,17917,17917_0,0.8705836534500122,,False
+6,restrição a competitividade,search log,2,17391,17391_0,0.8633588552474976,,False
+6,restrição a competitividade,search log,3,17372,17372_0,0.8580521941184998,3.0,True
+6,restrição a competitividade,search log,4,28863,28863_0,0.8568307757377625,,False
+6,restrição a competitividade,search log,5,38349,38349_4,0.8554598093032837,,False
+6,restrição a competitividade,search log,6,17943,17943_0,0.8550824522972107,,False
+6,restrição a competitividade,search log,7,20853,20853_0,0.8550527095794678,,False
+6,restrição a competitividade,search log,8,21888,21888_1,0.8546069264411926,,False
+6,restrição a competitividade,search log,9,23050,23050_0,0.8545905947685242,,False
+6,restrição a competitividade,search log,10,16409,16409_0,0.8521825075149536,,False
+7,acréscimos e supressões,search log,1,49135,49135_0,0.8499391674995422,,False
+7,acréscimos e supressões,search log,2,18019,18019_0,0.8465684056282043,,False
+7,acréscimos e supressões,search log,3,11604,11604_0,0.8450608253479004,,False
+7,acréscimos e supressões,search log,4,32639,32639_0,0.8450503349304199,3.0,True
+7,acréscimos e supressões,search log,5,17022,17022_0,0.844893753528595,3.0,True
+7,acréscimos e supressões,search log,6,18936,18936_0,0.8428127765655518,,False
+7,acréscimos e supressões,search log,7,18359,18359_0,0.8427872657775879,3.0,True
+7,acréscimos e supressões,search log,8,17090,17090_1,0.8396624326705933,,False
+7,acréscimos e supressões,search log,9,5574,5574_0,0.8393169045448303,3.0,True
+7,acréscimos e supressões,search log,10,17249,17249_3,0.8388299345970154,,False
+8,obras e serviços de engenharia,search log,1,31531,31531_0,0.8644740581512451,,False
+8,obras e serviços de engenharia,search log,2,31612,31612_0,0.8571497797966003,,False
+8,obras e serviços de engenharia,search log,3,21114,21114_0,0.8569577932357788,,False
+8,obras e serviços de engenharia,search log,4,11626,11626_0,0.853262186050415,,False
+8,obras e serviços de engenharia,search log,5,161,161_0,0.8529216051101685,,False
+8,obras e serviços de engenharia,search log,6,11653,11653_2,0.8523679971694946,,False
+8,obras e serviços de engenharia,search log,7,31633,31633_0,0.8522701263427734,,False
+8,obras e serviços de engenharia,search log,8,189,189_0,0.8521001935005188,,False
+8,obras e serviços de engenharia,search log,9,135712,135712_0,0.8520326614379883,3.0,True
+8,obras e serviços de engenharia,search log,10,40157,40157_0,0.8509052991867065,,False
+9,fiscalizacao de contratos,search log,1,18341,18341_0,0.8791123628616333,,False
+9,fiscalizacao de contratos,search log,2,21114,21114_0,0.8766772150993347,,False
+9,fiscalizacao de contratos,search log,3,18375,18375_0,0.8730506300926208,,False
+9,fiscalizacao de contratos,search log,4,32641,32641_0,0.871920108795166,,False
+9,fiscalizacao de contratos,search log,5,33812,33812_0,0.8705881834030151,,False
+9,fiscalizacao de contratos,search log,6,53626,53626_0,0.869978666305542,,False
+9,fiscalizacao de contratos,search log,7,83623,83623_0,0.8695498108863831,,False
+9,fiscalizacao de contratos,search log,8,53417,53417_0,0.8688831925392151,,False
+9,fiscalizacao de contratos,search log,9,21109,21109_0,0.8682715892791748,,False
+9,fiscalizacao de contratos,search log,10,19355,19355_0,0.8652693629264832,3.0,True
+10,diarias e passagens,search log,1,32385,32385_0,0.8601399660110474,3.0,True
+10,diarias e passagens,search log,2,30890,30890_0,0.8520389199256897,,False
+10,diarias e passagens,search log,3,30086,30086_0,0.8463040590286255,3.0,True
+10,diarias e passagens,search log,4,30881,30881_0,0.8462468385696411,,False
+10,diarias e passagens,search log,5,14250,14250_1,0.8434190154075623,,False
+10,diarias e passagens,search log,6,46900,46900_5,0.8412653207778931,,False
+10,diarias e passagens,search log,7,30369,30369_0,0.841205894947052,,False
+10,diarias e passagens,search log,8,30370,30370_1,0.8408216238021851,,False
+10,diarias e passagens,search log,9,34050,34050_5,0.8393625617027283,,False
+10,diarias e passagens,search log,10,30371,30371_0,0.8384211659431458,,False
+11,bens e serviços comuns,search log,1,33912,33912_0,0.8529369235038757,,False
+11,bens e serviços comuns,search log,2,114574,114574_4,0.8502364754676819,,False
+11,bens e serviços comuns,search log,3,18871,18871_0,0.8463611602783203,,False
+11,bens e serviços comuns,search log,4,18827,18827_1,0.8448559045791626,,False
+11,bens e serviços comuns,search log,5,15071,15071_4,0.8435261249542236,,False
+11,bens e serviços comuns,search log,6,34287,34287_0,0.8407630920410156,,False
+11,bens e serviços comuns,search log,7,18274,18274_0,0.8404970169067383,,False
+11,bens e serviços comuns,search log,8,21074,21074_0,0.8398298025131226,,False
+11,bens e serviços comuns,search log,9,17906,17906_0,0.8395348191261292,,False
+11,bens e serviços comuns,search log,10,31280,31280_0,0.8392327427864075,,False
+12,parcelas de maior relevância e valor significativo,search log,1,34276,34276_0,0.8532621264457703,,False
+12,parcelas de maior relevância e valor significativo,search log,2,25999,25999_1,0.8505833745002747,,False
+12,parcelas de maior relevância e valor significativo,search log,3,34027,34027_0,0.8498380184173584,,False
+12,parcelas de maior relevância e valor significativo,search log,4,29536,29536_0,0.8494827747344971,,False
+12,parcelas de maior relevância e valor significativo,search log,5,19664,19664_0,0.8489267826080322,,False
+12,parcelas de maior relevância e valor significativo,search log,6,29523,29523_0,0.8483067750930786,,False
+12,parcelas de maior relevância e valor significativo,search log,7,33874,33874_1,0.8482111692428589,,False
+12,parcelas de maior relevância e valor significativo,search log,8,33077,33077_0,0.8480724096298218,3.0,True
+12,parcelas de maior relevância e valor significativo,search log,9,34294,34294_2,0.8480706214904785,,False
+12,parcelas de maior relevância e valor significativo,search log,10,25971,25971_0,0.8477944135665894,,False
+13,despesa sem cobertura contratual,search log,1,18924,18924_1,0.860802412033081,3.0,True
+13,despesa sem cobertura contratual,search log,2,18112,18112_0,0.8578594923019409,,False
+13,despesa sem cobertura contratual,search log,3,34114,34114_0,0.8533626198768616,,False
+13,despesa sem cobertura contratual,search log,4,18106,18106_1,0.8527752161026001,,False
+13,despesa sem cobertura contratual,search log,5,18454,18454_0,0.851326048374176,,False
+13,despesa sem cobertura contratual,search log,6,30326,30326_0,0.8509045839309692,,False
+13,despesa sem cobertura contratual,search log,7,31111,31111_0,0.84993577003479,,False
+13,despesa sem cobertura contratual,search log,8,17122,17122_0,0.849603533744812,,False
+13,despesa sem cobertura contratual,search log,9,17258,17258_0,0.8494747877120972,,False
+13,despesa sem cobertura contratual,search log,10,11601,11601_0,0.8494316935539246,,False
+14,decreto-lei 4.657/1942,search log,1,24260,24260_2,0.8457968831062317,,False
+14,decreto-lei 4.657/1942,search log,2,25436,25436_0,0.8448824286460876,,False
+14,decreto-lei 4.657/1942,search log,3,32493,32493_1,0.8447911739349365,,False
+14,decreto-lei 4.657/1942,search log,4,11614,11614_4,0.8434253931045532,,False
+14,decreto-lei 4.657/1942,search log,5,134978,134978_4,0.8423014879226685,,False
+14,decreto-lei 4.657/1942,search log,6,92532,92532_6,0.8411879539489746,,False
+14,decreto-lei 4.657/1942,search log,7,35551,35551_1,0.8410234451293945,,False
+14,decreto-lei 4.657/1942,search log,8,16278,16278_6,0.8409499526023865,,False
+14,decreto-lei 4.657/1942,search log,9,31897,31897_1,0.8405711650848389,,False
+14,decreto-lei 4.657/1942,search log,10,18404,18404_1,0.8403915166854858,,False
+15,contas e materialidade,search log,1,31430,31430_0,0.8545486330986023,,False
+15,contas e materialidade,search log,2,35441,35441_1,0.8494527339935303,,False
+15,contas e materialidade,search log,3,17289,17289_0,0.8490085601806641,,False
+15,contas e materialidade,search log,4,31558,31558_0,0.8481123447418213,,False
+15,contas e materialidade,search log,5,9790,9790_0,0.8473532199859619,,False
+15,contas e materialidade,search log,6,59541,59541_4,0.8473262190818787,,False
+15,contas e materialidade,search log,7,30302,30302_0,0.8471133708953857,,False
+15,contas e materialidade,search log,8,32737,32737_0,0.8465443849563599,3.0,True
+15,contas e materialidade,search log,9,19368,19368_0,0.846423864364624,,False
+15,contas e materialidade,search log,10,32440,32440_2,0.8460142612457275,,False
+16,inexequibilidade e comprovação,search log,1,32920,32920_0,0.8462029695510864,,False
+16,inexequibilidade e comprovação,search log,2,39572,39572_0,0.845767617225647,,False
+16,inexequibilidade e comprovação,search log,3,27097,27097_1,0.8455371260643005,,False
+16,inexequibilidade e comprovação,search log,4,19404,19404_0,0.8437830209732056,3.0,True
+16,inexequibilidade e comprovação,search log,5,32964,32964_1,0.842633843421936,,False
+16,inexequibilidade e comprovação,search log,6,18215,18215_0,0.8425815105438232,,False
+16,inexequibilidade e comprovação,search log,7,31583,31583_1,0.8418793082237244,,False
+16,inexequibilidade e comprovação,search log,8,25585,25585_0,0.8415147066116333,,False
+16,inexequibilidade e comprovação,search log,9,17234,17234_0,0.8409866094589233,1.0,True
+16,inexequibilidade e comprovação,search log,10,52654,52654_0,0.8397799134254456,,False
+17,impedimento de licitar e contratar,search log,1,32963,32963_0,0.8770193457603455,,False
+17,impedimento de licitar e contratar,search log,2,21869,21869_0,0.8754561543464661,,False
+17,impedimento de licitar e contratar,search log,3,106479,106479_0,0.8751791715621948,,False
+17,impedimento de licitar e contratar,search log,4,40299,40299_0,0.8730114698410034,,False
+17,impedimento de licitar e contratar,search log,5,25267,25267_0,0.8725171685218811,,False
+17,impedimento de licitar e contratar,search log,6,18884,18884_0,0.8718699216842651,,False
+17,impedimento de licitar e contratar,search log,7,21908,21908_0,0.8716452121734619,,False
+17,impedimento de licitar e contratar,search log,8,18848,18848_0,0.870364785194397,,False
+17,impedimento de licitar e contratar,search log,9,9718,9718_0,0.8701629042625427,,False
+17,impedimento de licitar e contratar,search log,10,15763,15763_0,0.8684964179992676,,False
+18,aditivo e obra,search log,1,17225,17225_0,0.8581677675247192,,False
+18,aditivo e obra,search log,2,81314,81314_5,0.8534474968910217,3.0,True
+18,aditivo e obra,search log,3,81554,81554_0,0.8533527255058289,,False
+18,aditivo e obra,search log,4,32643,32643_0,0.8504177927970886,3.0,True
+18,aditivo e obra,search log,5,18380,18380_0,0.8501838445663452,,False
+18,aditivo e obra,search log,6,18057,18057_0,0.8490008115768433,,False
+18,aditivo e obra,search log,7,18018,18018_0,0.8487611413002014,,False
+18,aditivo e obra,search log,8,17219,17219_0,0.84844970703125,,False
+18,aditivo e obra,search log,9,217,217_1,0.847501277923584,,False
+18,aditivo e obra,search log,10,20511,20511_5,0.8473460674285889,,False
+19,fraude a licitacao,search log,1,35539,35539_0,0.8815528750419617,,False
+19,fraude a licitacao,search log,2,35186,35186_2,0.8742305040359497,3.0,True
+19,fraude a licitacao,search log,3,34701,34701_4,0.8724802732467651,,False
+19,fraude a licitacao,search log,4,35283,35283_1,0.8697216510772705,,False
+19,fraude a licitacao,search log,5,18877,18877_0,0.8686245083808899,,False
+19,fraude a licitacao,search log,6,34698,34698_0,0.8682965040206909,,False
+19,fraude a licitacao,search log,7,67158,67158_4,0.8682818412780762,,False
+19,fraude a licitacao,search log,8,16982,16982_0,0.8682039976119995,,False
+19,fraude a licitacao,search log,9,35375,35375_1,0.8681098222732544,,False
+19,fraude a licitacao,search log,10,104486,104486_5,0.8680339455604553,,False
+20,auditoria interna,search log,1,50987,50987_0,0.8638814687728882,3.0,True
+20,auditoria interna,search log,2,55315,55315_0,0.8612930774688721,3.0,True
+20,auditoria interna,search log,3,28961,28961_0,0.8572525978088379,2.0,True
+20,auditoria interna,search log,4,75365,75365_1,0.8511387705802917,,False
+20,auditoria interna,search log,5,39237,39237_0,0.8478317260742188,,False
+20,auditoria interna,search log,6,17700,17700_2,0.8450750112533569,,False
+20,auditoria interna,search log,7,31260,31260_1,0.8447415828704834,,False
+20,auditoria interna,search log,8,34284,34284_0,0.8446877002716064,,False
+20,auditoria interna,search log,9,23577,23577_1,0.8446246981620789,,False
+20,auditoria interna,search log,10,18113,18113_0,0.843464732170105,,False
+21,fracionamento de despesas,search log,1,21122,21122_0,0.8808341026306152,,False
+21,fracionamento de despesas,search log,2,33031,33031_0,0.8783426284790039,,False
+21,fracionamento de despesas,search log,3,31620,31620_0,0.8781156539916992,,False
+21,fracionamento de despesas,search log,4,32883,32883_0,0.8758903741836548,,False
+21,fracionamento de despesas,search log,5,21081,21081_0,0.8757188320159912,,False
+21,fracionamento de despesas,search log,6,31428,31428_0,0.8740403652191162,,False
+21,fracionamento de despesas,search log,7,31638,31638_0,0.873831033706665,,False
+21,fracionamento de despesas,search log,8,31621,31621_0,0.8735901117324829,,False
+21,fracionamento de despesas,search log,9,32864,32864_0,0.8719053268432617,,False
+21,fracionamento de despesas,search log,10,32884,32884_0,0.8715376853942871,,False
+22,novo e improrrogável prazo,search log,1,27044,27044_1,0.8560810089111328,,False
+22,novo e improrrogável prazo,search log,2,27062,27062_0,0.8535422682762146,,False
+22,novo e improrrogável prazo,search log,3,32795,32795_0,0.8529667854309082,,False
+22,novo e improrrogável prazo,search log,4,16121,16121_2,0.8518491983413696,,False
+22,novo e improrrogável prazo,search log,5,15202,15202_0,0.8509831428527832,,False
+22,novo e improrrogável prazo,search log,6,27773,27773_1,0.8509305119514465,,False
+22,novo e improrrogável prazo,search log,7,37248,37248_2,0.8509303331375122,,False
+22,novo e improrrogável prazo,search log,8,32812,32812_0,0.8508875370025635,,False
+22,novo e improrrogável prazo,search log,9,120812,120812_11,0.8503475189208984,,False
+22,novo e improrrogável prazo,search log,10,27141,27141_0,0.8503471612930298,,False
+23,inidoneidade de licitante,search log,1,35515,35515_0,0.8994773626327515,,False
+23,inidoneidade de licitante,search log,2,35356,35356_1,0.8844778537750244,,False
+23,inidoneidade de licitante,search log,3,35215,35215_0,0.8833646774291992,,False
+23,inidoneidade de licitante,search log,4,51278,51278_0,0.883358359336853,,False
+23,inidoneidade de licitante,search log,5,1650,1650_0,0.8827742338180542,,False
+23,inidoneidade de licitante,search log,6,2625,2625_0,0.8824838399887085,,False
+23,inidoneidade de licitante,search log,7,35301,35301_0,0.8819547891616821,,False
+23,inidoneidade de licitante,search log,8,34723,34723_0,0.8818414211273193,,False
+23,inidoneidade de licitante,search log,9,15244,15244_2,0.881392240524292,,False
+23,inidoneidade de licitante,search log,10,35537,35537_0,0.8803765773773193,,False
+24,licitações e contratos,search log,1,116897,116897_3,0.8532454371452332,,False
+24,licitações e contratos,search log,2,31074,31074_1,0.8528743982315063,,False
+24,licitações e contratos,search log,3,122181,122181_2,0.8512194156646729,,False
+24,licitações e contratos,search log,4,18364,18364_0,0.8502669334411621,,False
+24,licitações e contratos,search log,5,31531,31531_0,0.8499095439910889,,False
+24,licitações e contratos,search log,6,19405,19405_0,0.8495922684669495,,False
+24,licitações e contratos,search log,7,22163,22163_0,0.8493396639823914,,False
+24,licitações e contratos,search log,8,17842,17842_1,0.8489482402801514,,False
+24,licitações e contratos,search log,9,67014,67014_0,0.8489170670509338,,False
+24,licitações e contratos,search log,10,34338,34338_1,0.8486813902854919,,False
+25,exigência de atestado de capacidade,search log,1,33938,33938_1,0.8855664730072021,,False
+25,exigência de atestado de capacidade,search log,2,21823,21823_0,0.8838001489639282,,False
+25,exigência de atestado de capacidade,search log,3,17967,17967_0,0.8781479597091675,,False
+25,exigência de atestado de capacidade,search log,4,21934,21934_1,0.8763747215270996,,False
+25,exigência de atestado de capacidade,search log,5,31667,31667_0,0.8762741088867188,,False
+25,exigência de atestado de capacidade,search log,6,22805,22805_2,0.8742552399635315,,False
+25,exigência de atestado de capacidade,search log,7,17952,17952_0,0.8712582588195801,,False
+25,exigência de atestado de capacidade,search log,8,22148,22148_0,0.8710576295852661,,False
+25,exigência de atestado de capacidade,search log,9,71125,71125_0,0.8705723285675049,,False
+25,exigência de atestado de capacidade,search log,10,21831,21831_0,0.8695237636566162,,False
+26,contrato com a administração pública,search log,1,34280,34280_1,0.856655478477478,,False
+26,contrato com a administração pública,search log,2,18063,18063_0,0.8521273136138916,,False
+26,contrato com a administração pública,search log,3,32600,32600_0,0.8490420579910278,,False
+26,contrato com a administração pública,search log,4,32613,32613_0,0.8487744927406311,,False
+26,contrato com a administração pública,search log,5,21117,21117_3,0.8487367630004883,,False
+26,contrato com a administração pública,search log,6,34338,34338_1,0.8487301468849182,,False
+26,contrato com a administração pública,search log,7,32614,32614_0,0.8486615419387817,,False
+26,contrato com a administração pública,search log,8,9712,9712_0,0.8470794558525085,,False
+26,contrato com a administração pública,search log,9,99153,99153_2,0.8465310335159302,,False
+26,contrato com a administração pública,search log,10,31103,31103_0,0.8461157083511353,,False
+27,inexigibilidade e singularidade,search log,1,34258,34258_2,0.8592857122421265,,False
+27,inexigibilidade e singularidade,search log,2,33906,33906_0,0.8521742224693298,,False
+27,inexigibilidade e singularidade,search log,3,39572,39572_0,0.8502970337867737,,False
+27,inexigibilidade e singularidade,search log,4,31508,31508_0,0.8484569787979126,,False
+27,inexigibilidade e singularidade,search log,5,18194,18194_0,0.8482608795166016,,False
+27,inexigibilidade e singularidade,search log,6,52046,52046_3,0.8477922677993774,,False
+27,inexigibilidade e singularidade,search log,7,18818,18818_0,0.8471602201461792,3.0,True
+27,inexigibilidade e singularidade,search log,8,19385,19385_0,0.8469796180725098,3.0,True
+27,inexigibilidade e singularidade,search log,9,32936,32936_0,0.8467159271240234,3.0,True
+27,inexigibilidade e singularidade,search log,10,17844,17844_0,0.8444831967353821,,False
+28,mera participação e epp,search log,1,34979,34979_0,0.8381131887435913,,False
+28,mera participação e epp,search log,2,35284,35284_0,0.8322420120239258,2.0,True
+28,mera participação e epp,search log,3,14516,14516_2,0.8317227363586426,,False
+28,mera participação e epp,search log,4,35299,35299_0,0.8289331197738647,2.0,True
+28,mera participação e epp,search log,5,41779,41779_0,0.8286164402961731,,False
+28,mera participação e epp,search log,6,31766,31766_0,0.8281524181365967,,False
+28,mera participação e epp,search log,7,52275,52275_0,0.8272939920425415,,False
+28,mera participação e epp,search log,8,26468,26468_0,0.8269566297531128,,False
+28,mera participação e epp,search log,9,45326,45326_2,0.8264201283454895,,False
+28,mera participação e epp,search log,10,35285,35285_0,0.8263834714889526,,False
+29,decisão judicial,search log,1,78174,78174_9,0.866102933883667,,False
+29,decisão judicial,search log,2,29897,29897_1,0.858777642250061,,False
+29,decisão judicial,search log,3,135731,135731_4,0.8563876748085022,,False
+29,decisão judicial,search log,4,27972,27972_1,0.8559595942497253,,False
+29,decisão judicial,search log,5,39847,39847_5,0.8556365966796875,,False
+29,decisão judicial,search log,6,8214,8214_1,0.85453200340271,,False
+29,decisão judicial,search log,7,33778,33778_1,0.8544771671295166,,False
+29,decisão judicial,search log,8,27797,27797_2,0.8543484210968018,,False
+29,decisão judicial,search log,9,19628,19628_0,0.8536461591720581,,False
+29,decisão judicial,search log,10,25598,25598_1,0.8536240458488464,,False
+30,fiscal de contrato,search log,1,18341,18341_0,0.8521285057067871,,False
+30,fiscal de contrato,search log,2,11598,11598_1,0.8508920669555664,,False
+30,fiscal de contrato,search log,3,34663,34663_2,0.8416692018508911,,False
+30,fiscal de contrato,search log,4,32622,32622_0,0.8416136503219604,,False
+30,fiscal de contrato,search log,5,34199,34199_0,0.8410143256187439,,False
+30,fiscal de contrato,search log,6,32598,32598_0,0.8400055170059204,,False
+30,fiscal de contrato,search log,7,31103,31103_0,0.8390277624130249,,False
+30,fiscal de contrato,search log,8,18946,18946_0,0.838941216468811,,False
+30,fiscal de contrato,search log,9,21114,21114_0,0.8381836414337158,,False
+30,fiscal de contrato,search log,10,31065,31065_0,0.8373479247093201,,False
+31,medida cautelar,search log,1,34105,34105_0,0.8569998145103455,,False
+31,medida cautelar,search log,2,102455,102455_4,0.8562475442886353,3.0,True
+31,medida cautelar,search log,3,32838,32838_0,0.8547611236572266,,False
+31,medida cautelar,search log,4,27031,27031_0,0.8516223430633545,,False
+31,medida cautelar,search log,5,33899,33899_0,0.8512988090515137,3.0,True
+31,medida cautelar,search log,6,16966,16966_0,0.8499733209609985,,False
+31,medida cautelar,search log,7,26458,26458_0,0.8490383625030518,,False
+31,medida cautelar,search log,8,61882,61882_3,0.8487355709075928,,False
+31,medida cautelar,search log,9,32811,32811_0,0.8485395908355713,,False
+31,medida cautelar,search log,10,31394,31394_0,0.8485350608825684,,False
+32,é possível a aplicação concomitante,search log,1,21117,21117_3,0.8333592414855957,,False
+32,é possível a aplicação concomitante,search log,2,97899,97899_1,0.8307697772979736,,False
+32,é possível a aplicação concomitante,search log,3,31856,31856_0,0.8304737210273743,,False
+32,é possível a aplicação concomitante,search log,4,60727,60727_3,0.8291821479797363,,False
+32,é possível a aplicação concomitante,search log,5,20477,20477_1,0.828667402267456,,False
+32,é possível a aplicação concomitante,search log,6,17839,17839_0,0.8286216259002686,,False
+32,é possível a aplicação concomitante,search log,7,118408,118408_5,0.8279362320899963,,False
+32,é possível a aplicação concomitante,search log,8,18282,18282_1,0.8271447420120239,,False
+32,é possível a aplicação concomitante,search log,9,15078,15078_0,0.8266503214836121,,False
+32,é possível a aplicação concomitante,search log,10,34106,34106_0,0.8261551856994629,,False
+33,reajuste de contrato,search log,1,32604,32604_0,0.8582716584205627,,False
+33,reajuste de contrato,search log,2,83622,83622_4,0.8568195700645447,3.0,True
+33,reajuste de contrato,search log,3,31108,31108_0,0.856718897819519,3.0,True
+33,reajuste de contrato,search log,4,17821,17821_1,0.8566606044769287,3.0,True
+33,reajuste de contrato,search log,5,19353,19353_0,0.8559277057647705,,False
+33,reajuste de contrato,search log,6,34098,34098_0,0.8532490134239197,,False
+33,reajuste de contrato,search log,7,33788,33788_0,0.8526749014854431,,False
+33,reajuste de contrato,search log,8,31082,31082_1,0.8524900674819946,,False
+33,reajuste de contrato,search log,9,34213,34213_0,0.8521921038627625,,False
+33,reajuste de contrato,search log,10,17262,17262_0,0.8521161079406738,,False
+34,publicidade e concurso público,search log,1,150303,150303_0,0.8595667481422424,,False
+34,publicidade e concurso público,search log,2,33815,33815_0,0.8572930097579956,,False
+34,publicidade e concurso público,search log,3,28888,28888_0,0.8549503684043884,,False
+34,publicidade e concurso público,search log,4,19482,19482_1,0.8548111915588379,,False
+34,publicidade e concurso público,search log,5,29378,29378_0,0.8541737794876099,,False
+34,publicidade e concurso público,search log,6,8319,8319_0,0.8541114330291748,,False
+34,publicidade e concurso público,search log,7,17183,17183_3,0.8540737628936768,,False
+34,publicidade e concurso público,search log,8,33125,33125_0,0.8532308340072632,,False
+34,publicidade e concurso público,search log,9,34280,34280_1,0.8531761169433594,,False
+34,publicidade e concurso público,search log,10,75314,75314_0,0.8522434234619141,,False
+35,falecimento e multa,search log,1,14815,14815_1,0.8498010635375977,3.0,True
+35,falecimento e multa,search log,2,23232,23232_0,0.8493169546127319,,False
+35,falecimento e multa,search log,3,23168,23168_0,0.8491166830062866,,False
+35,falecimento e multa,search log,4,40931,40931_1,0.8479541540145874,,False
+35,falecimento e multa,search log,5,16864,16864_0,0.8476017713546753,3.0,True
+35,falecimento e multa,search log,6,26237,26237_0,0.8467469215393066,3.0,True
+35,falecimento e multa,search log,7,35357,35357_0,0.8466176986694336,,False
+35,falecimento e multa,search log,8,25484,25484_0,0.84635329246521,,False
+35,falecimento e multa,search log,9,22997,22997_0,0.8462647199630737,,False
+35,falecimento e multa,search log,10,23083,23083_0,0.8455620408058167,,False
+36,independência das instâncias,search log,1,24,24_0,0.8547831773757935,,False
+36,independência das instâncias,search log,2,17015,17015_0,0.8505138158798218,,False
+36,independência das instâncias,search log,3,27935,27935_0,0.8498823642730713,3.0,True
+36,independência das instâncias,search log,4,70993,70993_6,0.8488892912864685,,False
+36,independência das instâncias,search log,5,27954,27954_0,0.8482191562652588,,False
+36,independência das instâncias,search log,6,133284,133284_2,0.8469983339309692,,False
+36,independência das instâncias,search log,7,27867,27867_0,0.8463461399078369,3.0,True
+36,independência das instâncias,search log,8,25859,25859_2,0.8452869057655334,,False
+36,independência das instâncias,search log,9,27835,27835_0,0.8442448377609253,,False
+36,independência das instâncias,search log,10,15325,15325_1,0.8442063331604004,,False
+37,planejamento estratégico,search log,1,28909,28909_2,0.8681168556213379,2.0,True
+37,planejamento estratégico,search log,2,31481,31481_0,0.8651365041732788,1.0,True
+37,planejamento estratégico,search log,3,28964,28964_1,0.8561459183692932,,False
+37,planejamento estratégico,search log,4,32896,32896_0,0.8546959161758423,,False
+37,planejamento estratégico,search log,5,28898,28898_0,0.8541258573532104,1.0,True
+37,planejamento estratégico,search log,6,18459,18459_0,0.8515946269035339,,False
+37,planejamento estratégico,search log,7,28975,28975_0,0.8500794172286987,,False
+37,planejamento estratégico,search log,8,28974,28974_1,0.848957896232605,2.0,True
+37,planejamento estratégico,search log,9,34326,34326_0,0.8480813503265381,,False
+37,planejamento estratégico,search log,10,29395,29395_0,0.8474085330963135,,False
+38,sistema s e licitação,search log,1,38337,38337_0,0.8651754856109619,,False
+38,sistema s e licitação,search log,2,115433,115433_0,0.8635931611061096,,False
+38,sistema s e licitação,search log,3,58033,58033_3,0.8617079257965088,,False
+38,sistema s e licitação,search log,4,31571,31571_0,0.8615248203277588,,False
+38,sistema s e licitação,search log,5,30628,30628_0,0.8606269359588623,,False
+38,sistema s e licitação,search log,6,21063,21063_0,0.8602410554885864,3.0,True
+38,sistema s e licitação,search log,7,20845,20845_0,0.8599767684936523,,False
+38,sistema s e licitação,search log,8,31594,31594_0,0.8591481447219849,,False
+38,sistema s e licitação,search log,9,20865,20865_0,0.8589704036712646,,False
+38,sistema s e licitação,search log,10,150960,150960_4,0.8589135408401489,,False
+39,citação e validade,search log,1,32813,32813_0,0.8582615852355957,3.0,True
+39,citação e validade,search log,2,26236,26236_0,0.8568652868270874,3.0,True
+39,citação e validade,search log,3,63,63_0,0.8545293807983398,,False
+39,citação e validade,search log,4,61709,61709_2,0.852509617805481,,False
+39,citação e validade,search log,5,25257,25257_2,0.8504688739776611,,False
+39,citação e validade,search log,6,26261,26261_0,0.8484899997711182,,False
+39,citação e validade,search log,7,25689,25689_2,0.8472458720207214,,False
+39,citação e validade,search log,8,139391,139391_0,0.8466981649398804,,False
+39,citação e validade,search log,9,26065,26065_0,0.8453088402748108,,False
+39,citação e validade,search log,10,25480,25480_0,0.8451685905456543,,False
+40,multa a particulares,search log,1,32484,32484_0,0.8682692050933838,,False
+40,multa a particulares,search log,2,131459,131459_5,0.8605004549026489,,False
+40,multa a particulares,search log,3,126287,126287_3,0.8588097095489502,,False
+40,multa a particulares,search log,4,109147,109147_3,0.8574227094650269,,False
+40,multa a particulares,search log,5,19374,19374_3,0.8573986291885376,,False
+40,multa a particulares,search log,6,35214,35214_0,0.8572959899902344,,False
+40,multa a particulares,search log,7,54956,54956_3,0.8571017980575562,,False
+40,multa a particulares,search log,8,34964,34964_0,0.8565475940704346,3.0,True
+40,multa a particulares,search log,9,35210,35210_1,0.8563981056213379,,False
+40,multa a particulares,search log,10,34766,34766_3,0.8542481660842896,,False
+41,licitação e preço de mercado,search log,1,33042,33042_0,0.8744264841079712,,False
+41,licitação e preço de mercado,search log,2,18287,18287_0,0.8694030046463013,,False
+41,licitação e preço de mercado,search log,3,19405,19405_0,0.8679099082946777,,False
+41,licitação e preço de mercado,search log,4,33887,33887_0,0.8653236627578735,,False
+41,licitação e preço de mercado,search log,5,22168,22168_0,0.8651419878005981,,False
+41,licitação e preço de mercado,search log,6,20980,20980_0,0.8639320135116577,,False
+41,licitação e preço de mercado,search log,7,22166,22166_0,0.8638343811035156,,False
+41,licitação e preço de mercado,search log,8,21292,21292_0,0.8631916046142578,,False
+41,licitação e preço de mercado,search log,9,43499,43499_1,0.8629943132400513,,False
+41,licitação e preço de mercado,search log,10,34256,34256_0,0.8628411293029785,,False
+42,edital modificação,search log,1,21070,21070_1,0.8585313558578491,,False
+42,edital modificação,search log,2,83622,83622_4,0.8571693897247314,,False
+42,edital modificação,search log,3,32980,32980_0,0.8551353216171265,,False
+42,edital modificação,search log,4,18365,18365_0,0.8527402281761169,,False
+42,edital modificação,search log,5,17225,17225_0,0.8496696949005127,,False
+42,edital modificação,search log,6,21187,21187_2,0.8488696813583374,,False
+42,edital modificação,search log,7,19388,19388_0,0.8478361368179321,,False
+42,edital modificação,search log,8,18363,18363_0,0.8476928472518921,,False
+42,edital modificação,search log,9,9718,9718_0,0.8469579815864563,,False
+42,edital modificação,search log,10,17331,17331_1,0.8465204238891602,,False
+43,padronização marca,search log,1,21814,21814_2,0.8569169640541077,3.0,True
+43,padronização marca,search log,2,21815,21815_2,0.8519638776779175,,False
+43,padronização marca,search log,3,21839,21839_0,0.8490122556686401,2.0,True
+43,padronização marca,search log,4,22785,22785_0,0.8452979326248169,3.0,True
+43,padronização marca,search log,5,33054,33054_0,0.8422410488128662,,False
+43,padronização marca,search log,6,34321,34321_0,0.8390601873397827,3.0,True
+43,padronização marca,search log,7,33055,33055_1,0.8366061449050903,2.0,True
+43,padronização marca,search log,8,33056,33056_0,0.8334754109382629,3.0,True
+43,padronização marca,search log,9,22124,22124_1,0.8304459452629089,3.0,True
+43,padronização marca,search log,10,34258,34258_1,0.8276005387306213,2.0,True
+44,interesse recíproco,search log,1,27091,27091_2,0.8518010377883911,,False
+44,interesse recíproco,search log,2,15067,15067_2,0.8475368022918701,3.0,True
+44,interesse recíproco,search log,3,79814,79814_9,0.8475354909896851,,False
+44,interesse recíproco,search log,4,39210,39210_6,0.8474711179733276,,False
+44,interesse recíproco,search log,5,50525,50525_3,0.8473528623580933,,False
+44,interesse recíproco,search log,6,29651,29651_0,0.8455133438110352,,False
+44,interesse recíproco,search log,7,81299,81299_2,0.8450680375099182,,False
+44,interesse recíproco,search log,8,32316,32316_1,0.8447729349136353,,False
+44,interesse recíproco,search log,9,27090,27090_1,0.8440826535224915,1.0,True
+44,interesse recíproco,search log,10,27024,27024_1,0.8423788547515869,,False
+45,pesquisa de preços,search log,1,117370,117370_4,0.8738072514533997,3.0,True
+45,pesquisa de preços,search log,2,139562,139562_3,0.8689923286437988,3.0,True
+45,pesquisa de preços,search log,3,22166,22166_0,0.8608124256134033,,False
+45,pesquisa de preços,search log,4,35676,35676_1,0.8574254512786865,,False
+45,pesquisa de preços,search log,5,15253,15253_3,0.8570613861083984,,False
+45,pesquisa de preços,search log,6,151614,151614_2,0.8559165596961975,,False
+45,pesquisa de preços,search log,7,18894,18894_0,0.854110598564148,,False
+45,pesquisa de preços,search log,8,33046,33046_2,0.853906512260437,,False
+45,pesquisa de preços,search log,9,16330,16330_2,0.8523711562156677,,False
+45,pesquisa de preços,search log,10,22836,22836_0,0.851993203163147,,False
+46,planilha de custos e formação de preços,search log,1,15253,15253_3,0.8692559003829956,,False
+46,planilha de custos e formação de preços,search log,2,19430,19430_0,0.8648549318313599,,False
+46,planilha de custos e formação de preços,search log,3,29371,29371_0,0.864193320274353,3.0,True
+46,planilha de custos e formação de preços,search log,4,34936,34936_0,0.8631495833396912,,False
+46,planilha de custos e formação de preços,search log,5,29349,29349_0,0.8621933460235596,3.0,True
+46,planilha de custos e formação de preços,search log,6,32965,32965_0,0.8615677952766418,,False
+46,planilha de custos e formação de preços,search log,7,33042,33042_0,0.858367383480072,,False
+46,planilha de custos e formação de preços,search log,8,33908,33908_0,0.8582772612571716,,False
+46,planilha de custos e formação de preços,search log,9,98015,98015_0,0.8578380346298218,,False
+46,planilha de custos e formação de preços,search log,10,5709,5709_1,0.856955885887146,,False
+47,publicidade e propaganda,search log,1,28888,28888_0,0.8630803823471069,,False
+47,publicidade e propaganda,search log,2,33815,33815_0,0.862697958946228,3.0,True
+47,publicidade e propaganda,search log,3,29378,29378_0,0.8591958284378052,3.0,True
+47,publicidade e propaganda,search log,4,17183,17183_3,0.8535110950469971,,False
+47,publicidade e propaganda,search log,5,33791,33791_0,0.8520424365997314,2.0,True
+47,publicidade e propaganda,search log,6,31031,31031_0,0.8512753248214722,,False
+47,publicidade e propaganda,search log,7,29358,29358_1,0.8506712913513184,,False
+47,publicidade e propaganda,search log,8,41172,41172_6,0.8501590490341187,,False
+47,publicidade e propaganda,search log,9,28860,28860_0,0.8501142263412476,,False
+47,publicidade e propaganda,search log,10,150303,150303_0,0.847557544708252,,False
+48,processo seletivo e sistema s,search log,1,19600,19600_0,0.8719363212585449,3.0,True
+48,processo seletivo e sistema s,search log,2,20257,20257_0,0.8718459010124207,3.0,True
+48,processo seletivo e sistema s,search log,3,19601,19601_0,0.8717910647392273,3.0,True
+48,processo seletivo e sistema s,search log,4,113690,113690_0,0.8672140836715698,3.0,True
+48,processo seletivo e sistema s,search log,5,19602,19602_0,0.8671913146972656,,False
+48,processo seletivo e sistema s,search log,6,15793,15793_1,0.866187572479248,,False
+48,processo seletivo e sistema s,search log,7,20260,20260_0,0.8649828433990479,,False
+48,processo seletivo e sistema s,search log,8,31722,31722_0,0.864687442779541,,False
+48,processo seletivo e sistema s,search log,9,19572,19572_0,0.8600601553916931,3.0,True
+48,processo seletivo e sistema s,search log,10,20307,20307_0,0.8597556352615356,,False
+49,modalidade de licitação,search log,1,18852,18852_0,0.8842591643333435,2.0,True
+49,modalidade de licitação,search log,2,19393,19393_0,0.8740648627281189,,False
+49,modalidade de licitação,search log,3,20901,20901_0,0.8736228942871094,,False
+49,modalidade de licitação,search log,4,34123,34123_0,0.8733198642730713,,False
+49,modalidade de licitação,search log,5,19394,19394_0,0.8698645234107971,,False
+49,modalidade de licitação,search log,6,19399,19399_0,0.8688008785247803,,False
+49,modalidade de licitação,search log,7,31621,31621_0,0.8676725625991821,,False
+49,modalidade de licitação,search log,8,34205,34205_0,0.8667028546333313,,False
+49,modalidade de licitação,search log,9,18232,18232_0,0.8665066957473755,,False
+49,modalidade de licitação,search log,10,21278,21278_1,0.8662283420562744,,False
+50,antecipação de pagamento,search log,1,17818,17818_0,0.8702022433280945,,False
+50,antecipação de pagamento,search log,2,71048,71048_0,0.8648214340209961,3.0,True
+50,antecipação de pagamento,search log,3,18396,18396_0,0.8638606071472168,,False
+50,antecipação de pagamento,search log,4,18953,18953_0,0.8633000254631042,,False
+50,antecipação de pagamento,search log,5,31130,31130_0,0.8623925447463989,,False
+50,antecipação de pagamento,search log,6,32601,32601_0,0.8611242175102234,3.0,True
+50,antecipação de pagamento,search log,7,7109,7109_3,0.861102819442749,,False
+50,antecipação de pagamento,search log,8,18075,18075_0,0.8592989444732666,,False
+50,antecipação de pagamento,search log,9,17097,17097_0,0.8591398000717163,3.0,True
+50,antecipação de pagamento,search log,10,31953,31953_3,0.8590092658996582,,False
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,1,18426,18426_0,0.8772301077842712,,False
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,2,31281,31281_0,0.8738694190979004,,False
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,3,15470,15470_0,0.8734867572784424,,False
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,4,31277,31277_0,0.8728114366531372,,False
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,5,14270,14270_0,0.8723419904708862,2.0,True
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,6,17128,17128_0,0.867966890335083,,False
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,7,14862,14862_0,0.864458441734314,3.0,True
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,8,40888,40888_0,0.863824188709259,,False
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,9,2845,2845_1,0.8637881278991699,3.0,True
+51,concessão remunerada de uso de bens públicos modalidade,expression from LLM question,10,17360,17360_0,0.8635309934616089,2.0,True
+52,citação válida falecimento,expression from LLM question,1,139391,139391_0,0.8541027903556824,3.0,True
+52,citação válida falecimento,expression from LLM question,2,26236,26236_0,0.8457882404327393,,False
+52,citação válida falecimento,expression from LLM question,3,24280,24280_1,0.8444163799285889,,False
+52,citação válida falecimento,expression from LLM question,4,40940,40940_0,0.8442960977554321,3.0,True
+52,citação válida falecimento,expression from LLM question,5,32813,32813_0,0.8426308631896973,,False
+52,citação válida falecimento,expression from LLM question,6,46654,46654_4,0.8418260812759399,,False
+52,citação válida falecimento,expression from LLM question,7,24244,24244_2,0.8417288064956665,,False
+52,citação válida falecimento,expression from LLM question,8,14815,14815_1,0.8413047790527344,,False
+52,citação válida falecimento,expression from LLM question,9,25405,25405_1,0.8412882089614868,,False
+52,citação válida falecimento,expression from LLM question,10,29837,29837_2,0.841103732585907,,False
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,1,21843,21843_0,0.875482439994812,,False
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,2,48357,48357_0,0.8739719390869141,3.0,True
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,3,22789,22789_0,0.8726775646209717,,False
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,4,33935,33935_0,0.8685704469680786,,False
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,5,26373,26373_0,0.8680477142333984,2.0,True
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,6,22136,22136_1,0.866344153881073,,False
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,7,31524,31524_0,0.8647345304489136,,False
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,8,21801,21801_0,0.8622573018074036,2.0,True
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,9,31662,31662_1,0.8602271676063538,,False
+53,garantia contratual patrimônio líquido mínimo,expression from LLM question,10,22212,22212_0,0.8556489944458008,2.0,True
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,1,22789,22789_0,0.880084753036499,,False
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,2,21843,21843_0,0.8781698942184448,,False
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,3,26373,26373_0,0.8724949359893799,2.0,True
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,4,48357,48357_0,0.8710143566131592,2.0,True
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,5,33935,33935_0,0.8705908060073853,,False
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,6,22212,22212_0,0.8687969446182251,2.0,True
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,7,22136,22136_1,0.8681627511978149,,False
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,8,21897,21897_0,0.8651836514472961,,False
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,9,22211,22211_0,0.865121603012085,2.0,True
+54,garantia de participação patrimônio líquido mínimo,expression from LLM question,10,31524,31524_0,0.8644713163375854,,False
+55,despesas sem cobertura contratual multa,expression from LLM question,1,18924,18924_1,0.8794867396354675,2.0,True
+55,despesas sem cobertura contratual multa,expression from LLM question,2,19450,19450_0,0.8607490062713623,,False
+55,despesas sem cobertura contratual multa,expression from LLM question,3,15316,15316_0,0.8601139783859253,,False
+55,despesas sem cobertura contratual multa,expression from LLM question,4,18112,18112_0,0.859675407409668,,False
+55,despesas sem cobertura contratual multa,expression from LLM question,5,34734,34734_2,0.8583962917327881,,False
+55,despesas sem cobertura contratual multa,expression from LLM question,6,34114,34114_0,0.8581935167312622,,False
+55,despesas sem cobertura contratual multa,expression from LLM question,7,23133,23133_0,0.8568233251571655,,False
+55,despesas sem cobertura contratual multa,expression from LLM question,8,35218,35218_0,0.8567370176315308,,False
+55,despesas sem cobertura contratual multa,expression from LLM question,9,35446,35446_0,0.8562530875205994,,False
+55,despesas sem cobertura contratual multa,expression from LLM question,10,17815,17815_0,0.8562164306640625,,False
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,1,18865,18865_0,0.8678961992263794,3.0,True
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,2,17360,17360_0,0.8663666248321533,,False
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,3,2845,2845_1,0.8571435213088989,,False
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,4,31249,31249_0,0.850341796875,3.0,True
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,5,17357,17357_1,0.8471444845199585,,False
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,6,14273,14273_0,0.8457131385803223,2.0,True
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,7,14278,14278_3,0.8439666032791138,,False
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,8,18243,18243_0,0.8410454988479614,,False
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,9,31252,31252_2,0.8391563892364502,1.0,True
+56,uso de áreas comerciais em aeroportos pregão,expression from LLM question,10,11970,11970_0,0.8390734195709229,,False
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,1,5714,5714_0,0.8721418380737305,3.0,True
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,2,18426,18426_0,0.8653283715248108,2.0,True
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,3,21862,21862_0,0.8632066249847412,,False
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,4,18037,18037_0,0.8631106615066528,,False
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,5,31251,31251_0,0.8613366484642029,,False
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,6,17360,17360_2,0.8580409288406372,,False
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,7,14862,14862_0,0.8579776883125305,,False
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,8,31618,31618_0,0.8566914796829224,,False
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,9,31281,31281_0,0.8554312586784363,,False
+57,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,expression from LLM question,10,18223,18223_0,0.8551070690155029,,False
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,1,22144,22144_0,0.8689011335372925,,False
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,2,17967,17967_0,0.8672961592674255,2.0,True
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,3,31671,31671_0,0.8672302961349487,,False
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,4,21923,21923_0,0.8657635450363159,,False
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,5,22833,22833_0,0.8644042015075684,,False
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,6,22146,22146_0,0.8643038272857666,,False
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,7,33077,33077_0,0.8634170293807983,,False
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,8,21854,21854_0,0.8632570505142212,,False
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,9,21939,21939_0,0.8629441857337952,,False
+58,capacidade bens pertinentes e compatíveis com o objeto da licitação comprovação,expression from LLM question,10,22780,22780_3,0.8625779151916504,,False
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,1,18359,18359_1,0.8718657493591309,,False
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,2,83623,83623_0,0.8610097169876099,,False
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,3,17090,17090_0,0.85964035987854,3.0,True
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,4,18057,18057_0,0.8590525984764099,,False
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,5,17240,17240_2,0.8581582903862,,False
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,6,18018,18018_1,0.8575171232223511,,False
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,7,122672,122672_0,0.8571934700012207,,False
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,8,18364,18364_0,0.8562384843826294,,False
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,9,56317,56317_7,0.856162965297699,,False
+59,extrapolação dos limites para alterações consensuais qualitativas de contratos de obras e serviços,expression from LLM question,10,21114,21114_0,0.8560643792152405,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,1,35340,35340_0,0.8668232560157776,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,2,144943,144943_0,0.8629180788993835,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,3,35256,35256_0,0.8628053665161133,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,4,35341,35341_0,0.8607391119003296,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,5,35257,35257_0,0.8606609106063843,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,6,35065,35065_0,0.858045756816864,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,7,68489,68489_2,0.8575263619422913,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,8,31336,31336_0,0.8561767339706421,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,9,29178,29178_0,0.8550968170166016,,False
+60,responsabilidade do gestor sucessor omissão do antecessor,expression from LLM question,10,34673,34673_0,0.854436993598938,,False
+61,projeto de parceria público-privada modalidade,expression from LLM question,1,17128,17128_2,0.8551232218742371,2.0,True
+61,projeto de parceria público-privada modalidade,expression from LLM question,2,16157,16157_3,0.8454742431640625,1.0,True
+61,projeto de parceria público-privada modalidade,expression from LLM question,3,15071,15071_4,0.8432817459106445,,False
+61,projeto de parceria público-privada modalidade,expression from LLM question,4,86184,86184_3,0.8395863771438599,,False
+61,projeto de parceria público-privada modalidade,expression from LLM question,5,15107,15107_1,0.839404821395874,,False
+61,projeto de parceria público-privada modalidade,expression from LLM question,6,38549,38549_4,0.8393825888633728,,False
+61,projeto de parceria público-privada modalidade,expression from LLM question,7,68698,68698_2,0.8389239311218262,1.0,True
+61,projeto de parceria público-privada modalidade,expression from LLM question,8,31790,31790_0,0.8387857675552368,,False
+61,projeto de parceria público-privada modalidade,expression from LLM question,9,41779,41779_0,0.8384884595870972,,False
+61,projeto de parceria público-privada modalidade,expression from LLM question,10,15489,15489_0,0.8384829759597778,,False
+62,objeto do certame contrato social licitante,expression from LLM question,1,34226,34226_0,0.8772724270820618,1.0,True
+62,objeto do certame contrato social licitante,expression from LLM question,2,39216,39216_0,0.8706250190734863,1.0,True
+62,objeto do certame contrato social licitante,expression from LLM question,3,32599,32599_0,0.8694219589233398,,False
+62,objeto do certame contrato social licitante,expression from LLM question,4,32613,32613_0,0.8667522668838501,,False
+62,objeto do certame contrato social licitante,expression from LLM question,5,21130,21130_0,0.8662806153297424,,False
+62,objeto do certame contrato social licitante,expression from LLM question,6,42635,42635_0,0.8661383390426636,1.0,True
+62,objeto do certame contrato social licitante,expression from LLM question,7,31563,31563_0,0.8653339147567749,,False
+62,objeto do certame contrato social licitante,expression from LLM question,8,13156,13156_0,0.8648251891136169,,False
+62,objeto do certame contrato social licitante,expression from LLM question,9,21843,21843_0,0.8647679090499878,,False
+62,objeto do certame contrato social licitante,expression from LLM question,10,34127,34127_0,0.8644019365310669,,False
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,1,17184,17184_0,0.8821326494216919,3.0,True
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,2,19452,19452_0,0.8796082735061646,,False
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,3,80730,80730_4,0.8782183527946472,,False
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,4,4856,4856_0,0.8780145645141602,2.0,True
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,5,34746,34746_0,0.875598669052124,2.0,True
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,6,66911,66911_2,0.8743578195571899,,False
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,7,13583,13583_0,0.8739321231842041,3.0,True
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,8,32583,32583_0,0.8726639747619629,,False
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,9,13795,13795_0,0.872610867023468,,False
+63,responsabilidade gestão dos recursos Fundo Municipal de Saúde,expression from LLM question,10,34691,34691_0,0.8715690970420837,,False
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,1,31629,31629_0,0.8653947114944458,3.0,True
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,2,22166,22166_0,0.8588277101516724,,False
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,3,22170,22170_0,0.8566160798072815,,False
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,4,117370,117370_4,0.8559674024581909,,False
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,5,22836,22836_0,0.8553580045700073,,False
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,6,151614,151614_2,0.8485525846481323,1.0,True
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,7,15253,15253_3,0.8484354019165039,3.0,True
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,8,21135,21135_0,0.8480587005615234,,False
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,9,54852,54852_0,0.8473799824714661,3.0,True
+64,pesquisa de mercado orçamento fornecedores,expression from LLM question,10,142364,142364_3,0.8453401327133179,,False
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,1,21864,21864_0,0.8865658044815063,3.0,True
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,2,22166,22166_0,0.8827494382858276,,False
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,3,117370,117370_4,0.8822330236434937,,False
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,4,31629,31629_0,0.8822261095046997,,False
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,5,18894,18894_0,0.8812154531478882,,False
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,6,33046,33046_2,0.8798189163208008,,False
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,7,21135,21135_0,0.8786032795906067,3.0,True
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,8,22170,22170_0,0.8785274028778076,,False
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,9,16330,16330_0,0.877119779586792,,False
+65,pesquisa de preços obrigatória em licitações,expression from LLM question,10,22168,22168_0,0.8759803175926208,,False
+66,vantajosidade adesão à ata,expression from LLM question,1,20840,20840_0,0.8516621589660645,,False
+66,vantajosidade adesão à ata,expression from LLM question,2,62306,62306_0,0.8498302698135376,3.0,True
+66,vantajosidade adesão à ata,expression from LLM question,3,21203,21203_7,0.8488415479660034,,False
+66,vantajosidade adesão à ata,expression from LLM question,4,217,217_1,0.8486942052841187,,False
+66,vantajosidade adesão à ata,expression from LLM question,5,210,210_1,0.8461886644363403,,False
+66,vantajosidade adesão à ata,expression from LLM question,6,205,205_1,0.8446431159973145,,False
+66,vantajosidade adesão à ata,expression from LLM question,7,16981,16981_0,0.8443533182144165,,False
+66,vantajosidade adesão à ata,expression from LLM question,8,20860,20860_0,0.8443121314048767,,False
+66,vantajosidade adesão à ata,expression from LLM question,9,195,195_1,0.8443036675453186,,False
+66,vantajosidade adesão à ata,expression from LLM question,10,170,170_0,0.8435648679733276,,False
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,1,20539,20539_0,0.8793004751205444,,False
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,2,11604,11604_0,0.8773770332336426,,False
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,3,10089,10089_0,0.8759188652038574,3.0,True
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,4,31123,31123_0,0.8720989227294922,,False
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,5,49135,49135_0,0.8717234134674072,3.0,True
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,6,17207,17207_0,0.8716443777084351,,False
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,7,18019,18019_0,0.8709132671356201,3.0,True
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,8,18057,18057_0,0.8703070878982544,,False
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,9,18359,18359_0,0.8699502348899841,,False
+67,compensação entre acréscimos e supressões contratos administrativos,expression from LLM question,10,104455,104455_3,0.8699182271957397,,False
+68,vedado restabelecimento item suprimido,expression from LLM question,1,104455,104455_0,0.850403904914856,3.0,True
+68,vedado restabelecimento item suprimido,expression from LLM question,2,122672,122672_0,0.8498408794403076,,False
+68,vedado restabelecimento item suprimido,expression from LLM question,3,32058,32058_0,0.845660924911499,,False
+68,vedado restabelecimento item suprimido,expression from LLM question,4,13117,13117_1,0.8451932668685913,,False
+68,vedado restabelecimento item suprimido,expression from LLM question,5,21107,21107_2,0.8447990417480469,,False
+68,vedado restabelecimento item suprimido,expression from LLM question,6,31643,31643_0,0.8438867330551147,,False
+68,vedado restabelecimento item suprimido,expression from LLM question,7,34636,34636_1,0.8434638977050781,,False
+68,vedado restabelecimento item suprimido,expression from LLM question,8,2597,2597_5,0.8421196937561035,,False
+68,vedado restabelecimento item suprimido,expression from LLM question,9,71349,71349_5,0.8420965671539307,,False
+68,vedado restabelecimento item suprimido,expression from LLM question,10,33982,33982_0,0.8408541679382324,,False
+69,marca aquisição cartuchos,expression from LLM question,1,13633,13633_0,0.8380951881408691,3.0,True
+69,marca aquisição cartuchos,expression from LLM question,2,34146,34146_0,0.8292206525802612,3.0,True
+69,marca aquisição cartuchos,expression from LLM question,3,21867,21867_0,0.8283906579017639,3.0,True
+69,marca aquisição cartuchos,expression from LLM question,4,21802,21802_5,0.8223915100097656,,False
+69,marca aquisição cartuchos,expression from LLM question,5,93766,93766_7,0.8218533396720886,,False
+69,marca aquisição cartuchos,expression from LLM question,6,61084,61084_5,0.8197838664054871,,False
+69,marca aquisição cartuchos,expression from LLM question,7,34132,34132_1,0.8189871311187744,3.0,True
+69,marca aquisição cartuchos,expression from LLM question,8,28920,28920_0,0.8187785148620605,2.0,True
+69,marca aquisição cartuchos,expression from LLM question,9,18816,18816_1,0.818443238735199,,False
+69,marca aquisição cartuchos,expression from LLM question,10,22172,22172_0,0.8171653747558594,,False
+70,SUS recursos União competência do TCU,expression from LLM question,1,25448,25448_0,0.8945599794387817,,False
+70,SUS recursos União competência do TCU,expression from LLM question,2,15255,15255_0,0.8894164562225342,,False
+70,SUS recursos União competência do TCU,expression from LLM question,3,25573,25573_0,0.8868904113769531,3.0,True
+70,SUS recursos União competência do TCU,expression from LLM question,4,55897,55897_0,0.8868536949157715,,False
+70,SUS recursos União competência do TCU,expression from LLM question,5,13142,13142_0,0.8860565423965454,,False
+70,SUS recursos União competência do TCU,expression from LLM question,6,25605,25605_0,0.8857254981994629,,False
+70,SUS recursos União competência do TCU,expression from LLM question,7,14841,14841_2,0.8850059509277344,,False
+70,SUS recursos União competência do TCU,expression from LLM question,8,25569,25569_0,0.8849777579307556,,False
+70,SUS recursos União competência do TCU,expression from LLM question,9,23,23_0,0.8843135833740234,,False
+70,SUS recursos União competência do TCU,expression from LLM question,10,18900,18900_0,0.8842695951461792,,False
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,1,22170,22170_0,0.8724386692047119,2.0,True
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,2,54843,54843_2,0.8663556575775146,3.0,True
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,3,69161,69161_2,0.8655499219894409,2.0,True
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,4,27209,27209_0,0.8587004542350769,,False
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,5,43507,43507_1,0.8584132194519043,,False
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,6,117370,117370_4,0.8577366471290588,,False
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,7,22166,22166_0,0.8564915657043457,,False
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,8,15836,15836_0,0.8564825654029846,,False
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,9,95491,95491_5,0.856201171875,,False
+71,preços referenciais sistemas oficiais estimativa de custos,expression from LLM question,10,21067,21067_0,0.8553699254989624,,False
+72,ponderação técnica e preço,expression from LLM question,1,15740,15740_0,0.8813186883926392,3.0,True
+72,ponderação técnica e preço,expression from LLM question,2,20506,20506_0,0.8809369802474976,3.0,True
+72,ponderação técnica e preço,expression from LLM question,3,20970,20970_1,0.8735523223876953,3.0,True
+72,ponderação técnica e preço,expression from LLM question,4,53641,53641_1,0.8720717430114746,3.0,True
+72,ponderação técnica e preço,expression from LLM question,5,34126,34126_0,0.8701778650283813,3.0,True
+72,ponderação técnica e preço,expression from LLM question,6,2966,2966_0,0.8698185086250305,3.0,True
+72,ponderação técnica e preço,expression from LLM question,7,20592,20592_0,0.8695824146270752,,False
+72,ponderação técnica e preço,expression from LLM question,8,21064,21064_0,0.86811763048172,3.0,True
+72,ponderação técnica e preço,expression from LLM question,9,54860,54860_4,0.8673276305198669,,False
+72,ponderação técnica e preço,expression from LLM question,10,31689,31689_0,0.8672308921813965,3.0,True
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,1,20506,20506_0,0.8776279091835022,3.0,True
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,2,31526,31526_0,0.8769332766532898,,False
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,3,20970,20970_0,0.8751393556594849,,False
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,4,20586,20586_0,0.8727706670761108,,False
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,5,31594,31594_0,0.8722507357597351,,False
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,6,33080,33080_0,0.8707687854766846,,False
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,7,33082,33082_0,0.8706337809562683,3.0,True
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,8,21229,21229_0,0.8697489500045776,3.0,True
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,9,31689,31689_0,0.8697144985198975,,False
+73,pontuação desarrazoada licitações técnica e preço,expression from LLM question,10,34142,34142_0,0.8683735132217407,,False
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,1,31058,31058_0,0.8976826667785645,,False
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,2,18409,18409_0,0.8949735760688782,3.0,True
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,3,18954,18954_0,0.8902987837791443,3.0,True
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,4,18369,18369_0,0.8873372077941895,,False
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,5,31061,31061_0,0.8851324319839478,2.0,True
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,6,19450,19450_0,0.8819721937179565,,False
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,7,32596,32596_0,0.880221426486969,,False
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,8,18358,18358_0,0.8791923522949219,,False
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,9,18955,18955_0,0.8790890574455261,2.0,True
+74,prorrogação de contrato administrativo término prazo de vigência,expression from LLM question,10,31031,31031_0,0.8783657550811768,,False
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,1,105994,105994_0,0.8844457864761353,3.0,True
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,2,25628,25628_0,0.883467972278595,,False
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,3,21823,21823_0,0.8799233436584473,,False
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,4,26251,26251_0,0.8781384825706482,,False
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,5,17017,17017_3,0.8728141784667969,3.0,True
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,6,33076,33076_2,0.8707912564277649,,False
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,7,34264,34264_0,0.868857741355896,,False
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,8,31024,31024_0,0.868560791015625,,False
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,9,79794,79794_3,0.8682624697685242,1.0,True
+75,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,expression from LLM question,10,22148,22148_0,0.8678936958312988,,False
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,1,41098,41098_0,0.8729046583175659,,False
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,2,32035,32035_0,0.8713123798370361,3.0,True
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,3,31883,31883_0,0.8684927225112915,,False
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,4,33621,33621_1,0.8666718602180481,3.0,True
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,5,33575,33575_1,0.8665258288383484,,False
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,6,32020,32020_0,0.8656983971595764,,False
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,7,29831,29831_4,0.865276038646698,,False
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,8,32034,32034_0,0.8639475703239441,3.0,True
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,9,29883,29883_0,0.863927960395813,,False
+76,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,expression from LLM question,10,93703,93703_2,0.8635393977165222,,False
+77,aquisição direta risco a saúde,expression from LLM question,1,31790,31790_0,0.854289710521698,,False
+77,aquisição direta risco a saúde,expression from LLM question,2,60328,60328_2,0.8504617214202881,,False
+77,aquisição direta risco a saúde,expression from LLM question,3,149284,149284_6,0.8459421396255493,,False
+77,aquisição direta risco a saúde,expression from LLM question,4,32628,32628_0,0.8454384803771973,,False
+77,aquisição direta risco a saúde,expression from LLM question,5,18012,18012_0,0.8438815474510193,,False
+77,aquisição direta risco a saúde,expression from LLM question,6,108456,108456_0,0.8438024520874023,,False
+77,aquisição direta risco a saúde,expression from LLM question,7,17137,17137_0,0.8435535430908203,,False
+77,aquisição direta risco a saúde,expression from LLM question,8,65904,65904_0,0.8434369564056396,,False
+77,aquisição direta risco a saúde,expression from LLM question,9,34691,34691_0,0.8433478474617004,,False
+77,aquisição direta risco a saúde,expression from LLM question,10,17184,17184_0,0.841155469417572,,False
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,1,14555,14555_0,0.8825674057006836,3.0,True
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,2,14895,14895_0,0.8803117275238037,3.0,True
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,3,67011,67011_6,0.8740248084068298,3.0,True
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,4,18241,18241_4,0.8732842206954956,,False
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,5,13226,13226_1,0.8722794055938721,3.0,True
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,6,19390,19390_0,0.8718529939651489,2.0,True
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,7,117380,117380_0,0.8704637289047241,,False
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,8,45381,45381_0,0.8675068616867065,,False
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,9,21165,21165_0,0.8671000599861145,,False
+78,pregão divulgação dos preços estimados no edital,expression from LLM question,10,71456,71456_0,0.8664646148681641,3.0,True
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,1,32925,32925_0,0.8816721439361572,2.0,True
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,2,31507,31507_0,0.8807314038276672,3.0,True
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,3,34290,34290_0,0.8787604570388794,3.0,True
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,4,18848,18848_0,0.8777602910995483,,False
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,5,18218,18218_0,0.8721942901611328,,False
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,6,15763,15763_0,0.8718127012252808,,False
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,7,32920,32920_0,0.8703715801239014,,False
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,8,18818,18818_0,0.8702411651611328,,False
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,9,19385,19385_0,0.8694093227386475,,False
+79,instrutor treinamento inexigibilidade de licitação,expression from LLM question,10,34227,34227_0,0.8693088293075562,2.0,True
+80,reajuste de preços e repactuação,expression from LLM question,1,19353,19353_0,0.8700039386749268,,False
+80,reajuste de preços e repactuação,expression from LLM question,2,17262,17262_1,0.8661227226257324,3.0,True
+80,reajuste de preços e repactuação,expression from LLM question,3,31108,31108_0,0.8627027869224548,3.0,True
+80,reajuste de preços e repactuação,expression from LLM question,4,31104,31104_0,0.8584059476852417,3.0,True
+80,reajuste de preços e repactuação,expression from LLM question,5,83622,83622_4,0.8571522235870361,,False
+80,reajuste de preços e repactuação,expression from LLM question,6,34213,34213_0,0.8558561205863953,,False
+80,reajuste de preços e repactuação,expression from LLM question,7,9751,9751_2,0.8556770086288452,,False
+80,reajuste de preços e repactuação,expression from LLM question,8,31105,31105_0,0.855529248714447,,False
+80,reajuste de preços e repactuação,expression from LLM question,9,34098,34098_0,0.85490483045578,,False
+80,reajuste de preços e repactuação,expression from LLM question,10,31080,31080_0,0.8526981472969055,3.0,True
+81,recomposição reajuste,expression from LLM question,1,42820,42820_3,0.8559904098510742,3.0,True
+81,recomposição reajuste,expression from LLM question,2,83622,83622_4,0.8523956537246704,,False
+81,recomposição reajuste,expression from LLM question,3,42822,42822_2,0.8522049188613892,,False
+81,recomposição reajuste,expression from LLM question,4,42821,42821_2,0.8516401052474976,3.0,True
+81,recomposição reajuste,expression from LLM question,5,33773,33773_1,0.845184326171875,,False
+81,recomposição reajuste,expression from LLM question,6,83558,83558_3,0.8440309166908264,,False
+81,recomposição reajuste,expression from LLM question,7,89473,89473_6,0.8430548906326294,,False
+81,recomposição reajuste,expression from LLM question,8,31082,31082_1,0.8413592576980591,,False
+81,recomposição reajuste,expression from LLM question,9,15017,15017_3,0.8409440517425537,,False
+81,recomposição reajuste,expression from LLM question,10,34759,34759_2,0.8381008505821228,,False
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,1,18386,18386_0,0.8725747466087341,2.0,True
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,2,17220,17220_0,0.872194230556488,3.0,True
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,3,17289,17289_0,0.8691619634628296,,False
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,4,77814,77814_0,0.8606006503105164,,False
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,5,97198,97198_0,0.8602944016456604,,False
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,6,17258,17258_0,0.860015332698822,,False
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,7,60639,60639_7,0.8597956895828247,,False
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,8,43957,43957_0,0.8588486313819885,,False
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,9,69029,69029_0,0.858437716960907,,False
+82,retenção de pagamentos perda da regularidade fiscal,expression from LLM question,10,17213,17213_2,0.8575441241264343,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,1,17215,17215_0,0.8490701913833618,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,2,16124,16124_0,0.8489106893539429,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,3,31071,31071_0,0.8477394580841064,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,4,19450,19450_0,0.8464670777320862,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,5,21036,21036_1,0.8460803031921387,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,6,15042,15042_1,0.8459123969078064,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,7,26995,26995_0,0.8457374572753906,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,8,31127,31127_2,0.8450990319252014,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,9,33965,33965_0,0.8446964025497437,,False
+83,irregulares despesas desnecessárias e anteriores à celebração do contrato,expression from LLM question,10,17269,17269_0,0.8438050746917725,,False
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,1,26874,26874_0,0.8693762421607971,2.0,True
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,2,25267,25267_0,0.866459310054779,,False
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,3,17372,17372_0,0.8656854629516602,,False
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,4,31683,31683_0,0.8638770580291748,,False
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,5,22827,22827_0,0.8622785806655884,,False
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,6,34993,34993_0,0.8621488809585571,,False
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,7,22810,22810_0,0.8618462681770325,,False
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,8,56336,56336_3,0.8608766794204712,,False
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,9,17917,17917_0,0.8604133129119873,,False
+84,vínculo trabalhista ou societário pré-existente competitividade das licitantes,expression from LLM question,10,80979,80979_2,0.860352635383606,2.0,True
+85,técnica e preço profissionais quadro permanente,expression from LLM question,1,21832,21832_2,0.8622490167617798,,False
+85,técnica e preço profissionais quadro permanente,expression from LLM question,2,22108,22108_4,0.8536548614501953,,False
+85,técnica e preço profissionais quadro permanente,expression from LLM question,3,22841,22841_0,0.8533111810684204,,False
+85,técnica e preço profissionais quadro permanente,expression from LLM question,4,22810,22810_0,0.8518315553665161,3.0,True
+85,técnica e preço profissionais quadro permanente,expression from LLM question,5,23292,23292_0,0.8517729640007019,,False
+85,técnica e preço profissionais quadro permanente,expression from LLM question,6,18879,18879_1,0.8488538861274719,,False
+85,técnica e preço profissionais quadro permanente,expression from LLM question,7,5606,5606_2,0.8472720384597778,,False
+85,técnica e preço profissionais quadro permanente,expression from LLM question,8,33083,33083_0,0.8461776971817017,2.0,True
+85,técnica e preço profissionais quadro permanente,expression from LLM question,9,26874,26874_0,0.845612645149231,,False
+85,técnica e preço profissionais quadro permanente,expression from LLM question,10,22781,22781_0,0.8450285196304321,,False
+86,erro material desclassificação da proposta,expression from LLM question,1,18309,18309_0,0.8827605247497559,,False
+86,erro material desclassificação da proposta,expression from LLM question,2,18264,18264_0,0.8808800578117371,2.0,True
+86,erro material desclassificação da proposta,expression from LLM question,3,40621,40621_0,0.8793443441390991,,False
+86,erro material desclassificação da proposta,expression from LLM question,4,18911,18911_0,0.8739442825317383,,False
+86,erro material desclassificação da proposta,expression from LLM question,5,20558,20558_0,0.873229444026947,,False
+86,erro material desclassificação da proposta,expression from LLM question,6,74550,74550_0,0.8711933493614197,,False
+86,erro material desclassificação da proposta,expression from LLM question,7,17181,17181_0,0.8697810173034668,,False
+86,erro material desclassificação da proposta,expression from LLM question,8,23590,23590_0,0.8695241212844849,,False
+86,erro material desclassificação da proposta,expression from LLM question,9,19427,19427_0,0.8692519068717957,,False
+86,erro material desclassificação da proposta,expression from LLM question,10,20849,20849_0,0.8688898086547852,,False
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,1,21908,21908_0,0.8659754395484924,,False
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,2,33088,33088_0,0.8635570406913757,,False
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,3,21869,21869_0,0.8580871820449829,,False
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,4,25232,25232_1,0.8580755591392517,,False
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,5,34228,34228_0,0.8580693602561951,,False
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,6,104234,104234_0,0.8566369414329529,,False
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,7,113541,113541_0,0.8547723889350891,3.0,True
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,8,31667,31667_0,0.8537033796310425,,False
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,9,14484,14484_0,0.8525562286376953,,False
+87,vedação à inclusão documento habilitação diligência,expression from LLM question,10,33089,33089_0,0.8524266481399536,,False
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,1,33077,33077_0,0.8770216703414917,,False
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,2,22780,22780_3,0.8754338026046753,3.0,True
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,3,22149,22149_2,0.8726115226745605,,False
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,4,21844,21844_0,0.8721059560775757,,False
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,5,26373,26373_0,0.8708008527755737,,False
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,6,31524,31524_0,0.8699328303337097,,False
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,7,21843,21843_0,0.8687789440155029,,False
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,8,21939,21939_0,0.8685696125030518,3.0,True
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,9,33093,33093_0,0.8682828545570374,,False
+88,exigência comprovação de quantitativos mínimos características semelhantes,expression from LLM question,10,22840,22840_0,0.8669427037239075,,False
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,1,21869,21869_0,0.8678337335586548,,False
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,2,34633,34633_4,0.8659076690673828,,False
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,3,19450,19450_0,0.8658676147460938,,False
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,4,16918,16918_0,0.8653392791748047,,False
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,5,68667,68667_0,0.8651220202445984,3.0,True
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,6,2625,2625_0,0.8647985458374023,,False
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,7,35205,35205_0,0.864335834980011,,False
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,8,14890,14890_0,0.8639401197433472,2.0,True
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,9,34890,34890_0,0.8637417554855347,2.0,True
+89,extensão sanção de impedimento de licitar e contratar,expression from LLM question,10,34995,34995_0,0.8636623620986938,2.0,True
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,1,22773,22773_0,0.8548852205276489,3.0,True
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,2,135758,135758_8,0.8546075820922852,3.0,True
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,3,31531,31531_0,0.853056788444519,,False
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,4,79794,79794_3,0.8520556092262268,3.0,True
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,5,31603,31603_0,0.8504891395568848,,False
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,6,104234,104234_0,0.8482363224029541,,False
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,7,18219,18219_0,0.8473230600357056,,False
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,8,49113,49113_5,0.8470190167427063,,False
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,9,20953,20953_0,0.8470149040222168,,False
+90,habilitação técnico-operacional obras e serviços de engenharia,expression from LLM question,10,21832,21832_1,0.8468964099884033,,False
+91,controle adesão,expression from LLM question,1,14280,14280_0,0.8442050814628601,,False
+91,controle adesão,expression from LLM question,2,16276,16276_1,0.8421757221221924,,False
+91,controle adesão,expression from LLM question,3,20840,20840_4,0.8385211229324341,,False
+91,controle adesão,expression from LLM question,4,18340,18340_0,0.8378727436065674,,False
+91,controle adesão,expression from LLM question,5,28965,28965_0,0.8367278575897217,1.0,True
+91,controle adesão,expression from LLM question,6,29414,29414_0,0.8365329504013062,,False
+91,controle adesão,expression from LLM question,7,29413,29413_0,0.8362844586372375,1.0,True
+91,controle adesão,expression from LLM question,8,31482,31482_0,0.8341528177261353,1.0,True
+91,controle adesão,expression from LLM question,9,18341,18341_0,0.8318701386451721,,False
+91,controle adesão,expression from LLM question,10,118408,118408_5,0.8316093683242798,,False
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,1,40328,40328_1,0.8711562156677246,3.0,True
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,2,45379,45379_1,0.8480571508407593,3.0,True
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,3,21869,21869_0,0.843209981918335,,False
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,4,21908,21908_0,0.8430156707763672,,False
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,5,34217,34217_0,0.8423272967338562,,False
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,6,32943,32943_0,0.838901162147522,,False
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,7,31667,31667_0,0.837807834148407,,False
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,8,22833,22833_0,0.8376357555389404,,False
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,9,22138,22138_0,0.8376230001449585,,False
+92,alvará de funcionamento habilitação jurídica,expression from LLM question,10,25267,25267_0,0.8371365666389465,,False
+93,acumulação de cargo secretário municipal professor,expression from LLM question,1,20797,20797_3,0.877719521522522,3.0,True
+93,acumulação de cargo secretário municipal professor,expression from LLM question,2,31727,31727_0,0.869092583656311,,False
+93,acumulação de cargo secretário municipal professor,expression from LLM question,3,19521,19521_0,0.8676325082778931,,False
+93,acumulação de cargo secretário municipal professor,expression from LLM question,4,19506,19506_0,0.8669164180755615,2.0,True
+93,acumulação de cargo secretário municipal professor,expression from LLM question,5,19582,19582_0,0.8663079738616943,,False
+93,acumulação de cargo secretário municipal professor,expression from LLM question,6,59282,59282_0,0.8640899658203125,,False
+93,acumulação de cargo secretário municipal professor,expression from LLM question,7,20219,20219_0,0.8632513284683228,,False
+93,acumulação de cargo secretário municipal professor,expression from LLM question,8,19581,19581_0,0.8620538711547852,,False
+93,acumulação de cargo secretário municipal professor,expression from LLM question,9,19553,19553_0,0.8608506917953491,2.0,True
+93,acumulação de cargo secretário municipal professor,expression from LLM question,10,15732,15732_0,0.8599502444267273,,False
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,1,40133,40133_0,0.900580108165741,,False
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,2,26483,26483_0,0.8961489200592041,3.0,True
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,3,26482,26482_0,0.8885501027107239,,False
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,4,49905,49905_0,0.8851787447929382,,False
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,5,87667,87667_2,0.883800208568573,2.0,True
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,6,138140,138140_1,0.882801353931427,,False
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,7,26585,26585_0,0.8813676834106445,,False
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,8,11469,11469_3,0.8808369636535645,,False
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,9,26477,26477_0,0.8807181119918823,,False
+94,prescrição da pretensão punitiva julgamento das contas,expression from LLM question,10,31382,31382_0,0.8797383308410645,,False
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,1,61975,61975_1,0.8768903017044067,3.0,True
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,2,27209,27209_0,0.8756628036499023,3.0,True
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,3,20581,20581_0,0.8742483854293823,3.0,True
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,4,28030,28030_0,0.8717591762542725,,False
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,5,86727,86727_3,0.870395302772522,3.0,True
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,6,21291,21291_1,0.8695785403251648,2.0,True
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,7,147560,147560_4,0.8695608377456665,,False
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,8,43507,43507_2,0.8680166006088257,3.0,True
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,9,85914,85914_4,0.8678338527679443,3.0,True
+95,Banco de Preços em Saúde referência medicamentos,expression from LLM question,10,47183,47183_0,0.8670403957366943,2.0,True
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,1,18057,18057_0,0.8688902258872986,,False
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,2,18364,18364_0,0.8653860092163086,,False
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,3,83622,83622_4,0.8630928993225098,,False
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,4,18363,18363_0,0.8630285263061523,,False
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,5,99153,99153_2,0.8612377643585205,,False
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,6,18365,18365_0,0.8609766364097595,,False
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,7,21089,21089_0,0.8603289127349854,,False
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,8,20512,20512_1,0.8587689399719238,,False
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,9,17331,17331_1,0.8585764765739441,,False
+96,alteração contratual serviços já previstos no edital ,expression from LLM question,10,17149,17149_1,0.8576779365539551,,False
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,1,452,452_0,0.8643375039100647,3.0,True
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,2,34306,34306_0,0.8611598014831543,,False
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,3,21908,21908_0,0.8608384728431702,,False
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,4,21869,21869_0,0.859393298625946,,False
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,5,31522,31522_0,0.8591294288635254,,False
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,6,18203,18203_1,0.8585077524185181,,False
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,7,31621,31621_0,0.8581663966178894,,False
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,8,9718,9718_0,0.8572061061859131,,False
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,9,17276,17276_0,0.8571573495864868,,False
+97,licitação princípio da legalidade estrita afastado,expression from LLM question,10,33040,33040_0,0.8571394681930542,,False
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,1,31625,31625_0,0.8776795268058777,1.0,True
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,2,31031,31031_0,0.8743014335632324,,False
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,3,34213,34213_1,0.8726089000701904,,False
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,4,18410,18410_0,0.8700361847877502,3.0,True
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,5,43879,43879_5,0.8697569370269775,,False
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,6,34098,34098_0,0.8696901798248291,,False
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,7,18940,18940_0,0.8673098087310791,,False
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,8,17819,17819_0,0.8671497106552124,,False
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,9,19353,19353_0,0.8671069145202637,,False
+98,renovação de contrato serviços de natureza continuada pesquisa de preços,expression from LLM question,10,20532,20532_0,0.8663938045501709,,False
+99,contratações de software cartas de exclusividade,expression from LLM question,1,64928,64928_0,0.8765700459480286,3.0,True
+99,contratações de software cartas de exclusividade,expression from LLM question,2,40299,40299_0,0.8612074851989746,,False
+99,contratações de software cartas de exclusividade,expression from LLM question,3,51929,51929_6,0.8552826046943665,,False
+99,contratações de software cartas de exclusividade,expression from LLM question,4,32920,32920_0,0.8538784980773926,2.0,True
+99,contratações de software cartas de exclusividade,expression from LLM question,5,34143,34143_0,0.8511942625045776,,False
+99,contratações de software cartas de exclusividade,expression from LLM question,6,17290,17290_2,0.8503564596176147,,False
+99,contratações de software cartas de exclusividade,expression from LLM question,7,17353,17353_2,0.8495209813117981,,False
+99,contratações de software cartas de exclusividade,expression from LLM question,8,129558,129558_4,0.8493713140487671,,False
+99,contratações de software cartas de exclusividade,expression from LLM question,9,31714,31714_4,0.848029375076294,,False
+99,contratações de software cartas de exclusividade,expression from LLM question,10,13696,13696_0,0.8449669480323792,,False
+100,assistência médica a servidores,expression from LLM question,1,39042,39042_0,0.8648200035095215,2.0,True
+100,assistência médica a servidores,expression from LLM question,2,34219,34219_1,0.8617160320281982,2.0,True
+100,assistência médica a servidores,expression from LLM question,3,39040,39040_0,0.8612094521522522,2.0,True
+100,assistência médica a servidores,expression from LLM question,4,39041,39041_2,0.857471227645874,,False
+100,assistência médica a servidores,expression from LLM question,5,167,167_0,0.8570138216018677,,False
+100,assistência médica a servidores,expression from LLM question,6,31239,31239_0,0.8566399216651917,,False
+100,assistência médica a servidores,expression from LLM question,7,31687,31687_1,0.8553749918937683,,False
+100,assistência médica a servidores,expression from LLM question,8,20304,20304_0,0.8550474643707275,,False
+100,assistência médica a servidores,expression from LLM question,9,94594,94594_0,0.8548403978347778,,False
+100,assistência médica a servidores,expression from LLM question,10,19551,19551_2,0.8539459705352783,,False
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,1,16247,16247_0,0.871488094329834,,False
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,2,40888,40888_0,0.8706699013710022,,False
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,3,17360,17360_0,0.8700693845748901,2.0,True
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,4,2845,2845_1,0.8696337938308716,3.0,True
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,5,17128,17128_0,0.8662007451057434,,False
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,6,17285,17285_0,0.8661826848983765,,False
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,7,118313,118313_1,0.8657271862030029,,False
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,8,14270,14270_0,0.8653749823570251,,False
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,9,16245,16245_0,0.8651813864707947,,False
+101,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,LLM,10,31277,31277_0,0.8644034266471863,,False
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,1,139391,139391_0,0.8727174997329712,3.0,True
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,2,25257,25257_2,0.8659456968307495,,False
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,3,32813,32813_0,0.8602203130722046,,False
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,4,63,63_0,0.8597769737243652,,False
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,5,26236,26236_0,0.8595218658447266,,False
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,6,24244,24244_2,0.8584378957748413,,False
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,7,25600,25600_1,0.857864260673523,,False
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,8,40940,40940_0,0.8575617074966431,,False
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,9,33894,33894_0,0.8564990758895874,,False
+102,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,LLM,10,25480,25480_0,0.8560308814048767,,False
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,1,22789,22789_0,0.8858801126480103,3.0,True
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,2,21843,21843_0,0.8828543424606323,,False
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,3,26373,26373_0,0.8806862831115723,3.0,True
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,4,48357,48357_0,0.8772391676902771,3.0,True
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,5,33935,33935_0,0.8759235143661499,3.0,True
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,6,22212,22212_0,0.8749803900718689,3.0,True
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,7,21801,21801_0,0.8748873472213745,,False
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,8,31524,31524_0,0.8729723691940308,,False
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,9,22136,22136_1,0.8709166049957275,,False
+103,A prestação de garantia contratual é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,10,25757,25757_2,0.8689887523651123,3.0,True
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,1,22789,22789_0,0.884455680847168,,False
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,2,21843,21843_0,0.8819718360900879,,False
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,3,26373,26373_0,0.880668044090271,3.0,True
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,4,22212,22212_0,0.8801224827766418,3.0,True
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,5,21897,21897_0,0.8770798444747925,,False
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,6,31524,31524_0,0.875600278377533,,False
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,7,31675,31675_0,0.8743677139282227,,False
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,8,22840,22840_0,0.8732180595397949,,False
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,9,33935,33935_0,0.8731769323348999,,False
+104,A exigência de garantia de participação é permitida juntamente com a exigência de patrimônio líquido mínimo?,LLM,10,21801,21801_0,0.8709059953689575,,False
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,1,18924,18924_1,0.8506918549537659,,False
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,2,146241,146241_3,0.8486599922180176,,False
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,3,27213,27213_0,0.8479488492012024,,False
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,4,62634,62634_3,0.8468992710113525,,False
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,5,35189,35189_0,0.8467621803283691,1.0,True
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,6,73790,73790_1,0.8464069366455078,,False
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,7,35081,35081_0,0.8463563919067383,,False
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,8,18384,18384_0,0.8463543653488159,,False
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,9,34734,34734_0,0.8463493585586548,,False
+105,Quais são as consequências para os responsáveis que realizam despesas sem cobertura contratual?,LLM,10,51880,51880_1,0.8460237979888916,,False
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,1,18865,18865_0,0.8860524892807007,3.0,True
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,2,17360,17360_0,0.8836328983306885,2.0,True
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,3,2845,2845_1,0.8744611740112305,2.0,True
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,4,14273,14273_0,0.8651720285415649,,False
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,5,31249,31249_0,0.865085244178772,2.0,True
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,6,17357,17357_1,0.8601070642471313,,False
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,7,18243,18243_0,0.8595489859580994,,False
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,8,18864,18864_1,0.8588001728057861,,False
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,9,18248,18248_0,0.8562878370285034,,False
+106,O pregão é adequado para concessões de uso de áreas comerciais em aeroportos?,LLM,10,18272,18272_2,0.8558856248855591,,False
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,1,5714,5714_0,0.867563009262085,3.0,True
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,2,17331,17331_1,0.8539544343948364,,False
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,3,21862,21862_0,0.8496370315551758,,False
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,4,14862,14862_0,0.8488751649856567,,False
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,5,31251,31251_0,0.8485345244407654,,False
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,6,18124,18124_0,0.8485302925109863,1.0,True
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,7,18037,18037_0,0.8474613428115845,,False
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,8,20301,20301_0,0.8470295667648315,,False
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,9,18100,18100_0,0.8453835248947144,,False
+107,Quais normas devem ser observadas na cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios?,LLM,10,32628,32628_0,0.8447023630142212,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,1,31671,31671_0,0.86507248878479,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,2,22113,22113_1,0.8606550693511963,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,3,33071,33071_0,0.8596440553665161,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,4,22856,22856_0,0.8591216802597046,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,5,31664,31664_2,0.8589261770248413,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,6,26373,26373_6,0.8588296175003052,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,7,22144,22144_0,0.8587816953659058,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,8,22833,22833_0,0.8583090305328369,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,9,19387,19387_0,0.8578154444694519,,False
+108,É necessário exigir ao licitante comprovar que já forneceu bens pertinentes e compatíveis com o objeto da licitação?,LLM,10,19408,19408_0,0.8577808141708374,,False
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,1,18359,18359_1,0.8875178694725037,,False
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,2,17090,17090_1,0.8692547082901001,3.0,True
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,3,49803,49803_5,0.8661510348320007,,False
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,4,11595,11595_1,0.8655107021331787,,False
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,5,20539,20539_0,0.8652675747871399,,False
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,6,18018,18018_1,0.8650220632553101,,False
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,7,18936,18936_0,0.8649097084999084,,False
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,8,83623,83623_4,0.864526629447937,,False
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,9,17206,17206_2,0.8643954396247864,,False
+109,"É permitido a extrapolar os limites estabelecidos no art. 65, §§ 1º e 2º, da Lei 8.666/1993 para alterações consensuais qualitativas de contratos de obras e serviços?",LLM,10,53417,53417_12,0.8642514944076538,,False
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,1,34673,34673_0,0.883776843547821,,False
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,2,84720,84720_7,0.8823530673980713,,False
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,3,120403,120403_4,0.8779659867286682,,False
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,4,111444,111444_6,0.8749604225158691,3.0,True
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,5,712,712_0,0.8739631175994873,,False
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,6,35428,35428_0,0.8726695775985718,3.0,True
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,7,35037,35037_0,0.8725749254226685,,False
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,8,137127,137127_3,0.8724977970123291,3.0,True
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,9,145500,145500_3,0.8723433017730713,3.0,True
+110,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,LLM,10,35258,35258_0,0.872337818145752,3.0,True
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,1,44162,44162_0,0.8742682337760925,3.0,True
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,2,44311,44311_0,0.8666796684265137,,False
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,3,18828,18828_0,0.861669659614563,,False
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,4,54765,54765_0,0.8605504035949707,1.0,True
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,5,85589,85589_0,0.8590111136436462,,False
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,6,142364,142364_0,0.858748197555542,,False
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,7,118313,118313_1,0.8583675622940063,,False
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,8,44084,44084_1,0.8580940961837769,,False
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,9,44087,44087_1,0.8580347299575806,,False
+111,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,LLM,10,20538,20538_5,0.8580256104469299,,False
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,1,7892,7892_3,0.8574137687683105,,False
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,2,34138,34138_2,0.8568253517150879,,False
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,3,13694,13694_4,0.856243371963501,3.0,True
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,4,34137,34137_2,0.8548352718353271,,False
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,5,42635,42635_5,0.8546621203422546,1.0,True
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,6,34127,34127_0,0.8532798886299133,,False
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,7,81998,81998_2,0.8531833291053772,,False
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,8,125359,125359_1,0.8530217409133911,2.0,True
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,9,21863,21863_0,0.8529223203659058,,False
+112,O que acontece se não houver compatibilidade entre o objeto do certame e as atividades previstas no contrato social da empresa licitante?,LLM,10,42817,42817_5,0.8525771498680115,1.0,True
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,1,80730,80730_4,0.879321813583374,,False
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,2,75014,75014_3,0.8732927441596985,2.0,True
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,3,4856,4856_0,0.868854820728302,2.0,True
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,4,17184,17184_0,0.8684155941009521,3.0,True
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,5,25605,25605_1,0.8647137880325317,,False
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,6,19452,19452_0,0.8631393909454346,,False
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,7,32583,32583_0,0.8628569841384888,,False
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,8,13583,13583_0,0.8628565073013306,3.0,True
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,9,34746,34746_0,0.8625837564468384,2.0,True
+113,Quem é responsável pela gestão dos recursos do Fundo Municipal de Saúde?,LLM,10,17327,17327_0,0.861791729927063,,False
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,1,31629,31629_0,0.8828449249267578,3.0,True
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,2,33046,33046_2,0.8799284100532532,,False
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,3,22166,22166_0,0.8783377408981323,,False
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,4,21864,21864_0,0.8774313926696777,3.0,True
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,5,21135,21135_0,0.8757399320602417,3.0,True
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,6,22168,22168_0,0.8736335039138794,,False
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,7,142364,142364_0,0.8730964064598083,,False
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,8,22170,22170_0,0.8707638382911682,2.0,True
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,9,151614,151614_2,0.8707443475723267,,False
+114,É obrigatória pesquisa de mercado na elaboração do orçamento-base da licitação?,LLM,10,16330,16330_2,0.8699252605438232,,False
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,1,21864,21864_0,0.8898762464523315,3.0,True
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,2,22166,22166_0,0.8778241872787476,,False
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,3,33046,33046_2,0.8752655982971191,,False
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,4,151614,151614_2,0.8728625178337097,,False
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,5,117370,117370_4,0.8717109560966492,,False
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,6,21135,21135_0,0.8714030981063843,3.0,True
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,7,18894,18894_0,0.8693641424179077,,False
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,8,22168,22168_0,0.8692147731781006,,False
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,9,31629,31629_0,0.8681932091712952,3.0,True
+115,A pesquisa de preços correntes no mercado é obrigatória em licitações?,LLM,10,19405,19405_0,0.8680553436279297,,False
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,1,20500,20500_1,0.8526811599731445,3.0,True
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,2,21203,21203_1,0.8491466045379639,,False
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,3,20840,20840_0,0.8484063148498535,,False
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,4,74335,74335_6,0.8454281091690063,,False
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,5,14526,14526_0,0.8435222506523132,3.0,True
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,6,62306,62306_0,0.842928409576416,3.0,True
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,7,35016,35016_4,0.8424433469772339,,False
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,8,16981,16981_0,0.8404041528701782,,False
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,9,50537,50537_3,0.8402737975120544,3.0,True
+116,O que fazer para verificar a vantajosidade da adesão à ata?,LLM,10,45746,45746_4,0.8395595550537109,,False
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,1,32639,32639_0,0.8750863671302795,,False
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,2,104455,104455_3,0.8746514320373535,,False
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,3,11604,11604_0,0.8735276460647583,,False
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,4,10089,10089_0,0.8730926513671875,3.0,True
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,5,17089,17089_0,0.8705424070358276,2.0,True
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,6,17090,17090_1,0.8686107397079468,,False
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,7,49135,49135_0,0.8677834272384644,3.0,True
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,8,20539,20539_0,0.8673753142356873,,False
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,9,18359,18359_1,0.8671808242797852,,False
+117,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,LLM,10,18936,18936_0,0.8666635155677795,,False
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,1,104455,104455_0,0.8986009359359741,3.0,True
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,2,17206,17206_0,0.889571487903595,2.0,True
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,3,18359,18359_0,0.8807485103607178,,False
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,4,17207,17207_0,0.8807004690170288,,False
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,5,17209,17209_0,0.8781925439834595,,False
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,6,15532,15532_1,0.8781319856643677,1.0,True
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,7,122672,122672_0,0.8775969743728638,,False
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,8,137713,137713_0,0.8770159482955933,,False
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,9,37396,37396_3,0.8763644099235535,,False
+118,Quais são as condições para que o restabelecimento total ou parcial de quantitativo de item anteriormente suprimido por aditivo contratual não configure compensação vedada pela jurisprudência do TCU?,LLM,10,34904,34904_0,0.8759390115737915,,False
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,1,34132,34132_1,0.8783005475997925,3.0,True
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,2,33054,33054_0,0.8614954352378845,3.0,True
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,3,22172,22172_0,0.8606976866722107,,False
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,4,13633,13633_0,0.8604637384414673,3.0,True
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,5,34146,34146_0,0.8594177961349487,3.0,True
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,6,22196,22196_0,0.8590091466903687,,False
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,7,21814,21814_2,0.8584406971931458,,False
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,8,22124,22124_1,0.8569998741149902,,False
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,9,21867,21867_0,0.8565895557403564,2.0,True
+119,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,LLM,10,21815,21815_2,0.856528639793396,,False
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,1,17012,17012_6,0.8654376268386841,3.0,True
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,2,15255,15255_0,0.865416407585144,,False
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,3,31004,31004_0,0.8648554682731628,,False
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,4,25448,25448_0,0.8637828230857849,,False
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,5,18900,18900_0,0.8624246120452881,3.0,True
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,6,19452,19452_0,0.8621004819869995,,False
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,7,41628,41628_0,0.8619099855422974,,False
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,8,17700,17700_2,0.861355185508728,,False
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,9,6549,6549_2,0.8598635196685791,,False
+120,O TCU é responsável pela fiscalização das ações e serviços de saúde pagos com recursos repassados pela União no âmbito do Sistema Único de Saúde?,LLM,10,25569,25569_0,0.8595719337463379,,False
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,1,22170,22170_0,0.8708810806274414,3.0,True
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,2,151614,151614_2,0.8665640950202942,,False
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,3,16331,16331_4,0.8654335141181946,,False
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,4,15725,15725_1,0.8635806441307068,,False
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,5,22164,22164_0,0.8630145788192749,3.0,True
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,6,69161,69161_2,0.8629404902458191,,False
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,7,33046,33046_2,0.8627418279647827,,False
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,8,74315,74315_3,0.8619279265403748,,False
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,9,136013,136013_3,0.8610954880714417,1.0,True
+121,O que deve ser feito se não for possível obter preços referenciais nos sistemas oficiais para estimativa de custos em processos licitatórios?,LLM,10,122153,122153_3,0.8610396385192871,,False
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,1,20970,20970_1,0.890100359916687,3.0,True
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,2,20506,20506_0,0.8875735998153687,3.0,True
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,3,34126,34126_2,0.8857763409614563,3.0,True
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,4,15740,15740_0,0.8837918043136597,3.0,True
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,5,53641,53641_1,0.8834428191184998,3.0,True
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,6,54860,54860_4,0.8820875883102417,,False
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,7,21207,21207_0,0.8816865682601929,,False
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,8,20586,20586_0,0.8814762234687805,,False
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,9,20969,20969_0,0.8813369274139404,,False
+122,É necessária ponderação entre a pontuação técnica e a de preço em uma licitação do tipo técnica e preço?,LLM,10,32994,32994_0,0.8807023763656616,,False
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,1,33082,33082_1,0.8857021927833557,3.0,True
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,2,20871,20871_0,0.8803135752677917,2.0,True
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,3,20586,20586_0,0.8761796951293945,,False
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,4,20970,20970_0,0.8740018606185913,,False
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,5,31593,31593_1,0.8732013702392578,,False
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,6,31669,31669_0,0.8729665279388428,,False
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,7,33114,33114_2,0.8726455569267273,,False
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,8,20585,20585_0,0.8717339038848877,,False
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,9,21923,21923_0,0.8714160323143005,,False
+123,Como a pontuação desarrazoada pode limitar a competitividade nas licitações do tipo técnica e preço?,LLM,10,34206,34206_0,0.8709641098976135,,False
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,1,18409,18409_0,0.8874661922454834,,False
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,2,34096,34096_0,0.8858585953712463,,False
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,3,31061,31061_0,0.8848241567611694,2.0,True
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,4,17231,17231_1,0.8841225504875183,,False
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,5,14508,14508_0,0.8824300169944763,2.0,True
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,6,18954,18954_0,0.8823748826980591,,False
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,7,18028,18028_0,0.8816168904304504,,False
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,8,34194,34194_0,0.8805671334266663,,False
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,9,18369,18369_0,0.8798556923866272,,False
+124,É possível prorrogar um contrato administrativo fora do término do prazo de vigência?,LLM,10,31058,31058_0,0.8796334266662598,,False
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,1,105994,105994_0,0.8803246021270752,3.0,True
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,2,17017,17017_3,0.8797605037689209,2.0,True
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,3,25628,25628_0,0.8779335618019104,,False
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,4,33095,33095_0,0.8733553886413574,,False
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,5,33076,33076_2,0.8703774213790894,,False
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,6,79794,79794_2,0.869701623916626,,False
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,7,135758,135758_4,0.8689912557601929,,False
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,8,18291,18291_0,0.8683203458786011,,False
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,9,21823,21823_0,0.8678159713745117,,False
+125,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,LLM,10,128212,128212_2,0.8673571348190308,,False
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,1,41098,41098_0,0.8581745624542236,,False
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,2,32035,32035_0,0.8556371331214905,,False
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,3,33575,33575_1,0.8531382083892822,,False
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,4,1846,1846_1,0.8518880605697632,3.0,True
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,5,33621,33621_1,0.8508273363113403,3.0,True
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,6,93703,93703_2,0.849984347820282,,False
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,7,32034,32034_0,0.8498625755310059,3.0,True
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,8,29831,29831_4,0.8495678901672363,,False
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,9,32020,32020_0,0.8487248420715332,,False
+126,"É necessária reposição de importâncias indevidamente percebidas, de boa-fé, por servidores, em virtude de erro escusável de interpretação de lei por parte do órgão/entidade?",LLM,10,29832,29832_4,0.8484104871749878,3.0,True
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,1,18012,18012_0,0.849692702293396,,False
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,2,18370,18370_2,0.8471980094909668,,False
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,3,31790,31790_0,0.8470442891120911,,False
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,4,116893,116893_0,0.8468372821807861,,False
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,5,18816,18816_1,0.8454070091247559,,False
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,6,60328,60328_2,0.845259428024292,,False
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,7,17137,17137_0,0.84486985206604,3.0,True
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,8,107859,107859_3,0.8442615270614624,1.0,True
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,9,146358,146358_5,0.8442091941833496,,False
+127,É possível aquisição direta quando a falta de produto ou serviço pode colocar em risco a saúde das pessoas?,LLM,10,92043,92043_1,0.8437545299530029,,False
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,1,14895,14895_0,0.8708583116531372,2.0,True
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,2,18241,18241_4,0.8690875768661499,,False
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,3,14555,14555_0,0.8686946034431458,,False
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,4,35620,35620_0,0.8677515983581543,1.0,True
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,5,71456,71456_0,0.8673096895217896,2.0,True
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,6,147395,147395_3,0.8662422895431519,,False
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,7,13226,13226_1,0.86473149061203,,False
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,8,47183,47183_0,0.8630768060684204,1.0,True
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,9,74655,74655_1,0.8625973463058472,,False
+128,É obrigatória a divulgação dos preços estimados no edital nos pregões para aquisição de medicamentos?,LLM,10,67011,67011_6,0.862136721611023,3.0,True
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,1,31507,31507_1,0.8702105283737183,3.0,True
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,2,34290,34290_0,0.867010235786438,3.0,True
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,3,32925,32925_0,0.8628547787666321,2.0,True
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,4,81913,81913_1,0.8574699759483337,,False
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,5,39676,39676_1,0.857018232345581,,False
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,6,18191,18191_1,0.8566097617149353,,False
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,7,18218,18218_0,0.8550231456756592,,False
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,8,18848,18848_0,0.8545897006988525,,False
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,9,92814,92814_6,0.8544986248016357,,False
+129,"A contratação de professores, conferencistas ou instrutores para ministrar cursos de treinamento ou aperfeiçoamento de pessoal se enquadra na inexigibilidade de licitação?",LLM,10,34227,34227_0,0.8533385992050171,,False
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,1,17262,17262_1,0.8673923015594482,2.0,True
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,2,31104,31104_0,0.867280125617981,3.0,True
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,3,31108,31108_1,0.8627057075500488,3.0,True
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,4,34213,34213_0,0.8577247262001038,,False
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,5,9751,9751_2,0.853741466999054,2.0,True
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,6,19353,19353_0,0.8533243536949158,,False
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,7,31105,31105_1,0.8533149361610413,,False
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,8,18416,18416_0,0.8468136787414551,,False
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,9,18080,18080_0,0.8462940454483032,,False
+130,Qual é a diferença entre reajuste de preços e repactuação?,LLM,10,34098,34098_0,0.8433565497398376,,False
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,1,42820,42820_3,0.8708620071411133,3.0,True
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,2,42822,42822_2,0.8687423467636108,,False
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,3,42821,42821_2,0.866280734539032,3.0,True
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,4,42819,42819_2,0.8591591119766235,,False
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,5,83622,83622_4,0.8579521179199219,,False
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,6,18402,18402_2,0.8554097414016724,,False
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,7,42659,42659_10,0.8545515537261963,,False
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,8,21117,21117_2,0.8523171544075012,,False
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,9,18416,18416_1,0.8523118495941162,1.0,True
+131,É possível a aplicação da recomposição mesmo após a aplicação do reajuste previsto no contrato?,LLM,10,104189,104189_1,0.8522254228591919,,False
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,1,18386,18386_0,0.8720762133598328,2.0,True
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,2,17220,17220_0,0.8659954071044922,3.0,True
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,3,17258,17258_0,0.8598020672798157,,False
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,4,97198,97198_0,0.8584834933280945,,False
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,5,17213,17213_2,0.8582408428192139,,False
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,6,43957,43957_0,0.8556867837905884,,False
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,7,17289,17289_0,0.8548977375030518,,False
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,8,122652,122652_0,0.853805661201477,,False
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,9,126940,126940_0,0.853596031665802,,False
+132,A retenção de pagamentos é permitida em caso de perda da regularidade fiscal?,LLM,10,27849,27849_1,0.8534572720527649,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,1,31071,31071_0,0.8715161681175232,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,2,19450,19450_0,0.8654464483261108,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,3,62634,62634_3,0.8645253777503967,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,4,15413,15413_1,0.8644067645072937,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,5,16124,16124_0,0.8642940521240234,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,6,17215,17215_0,0.8632785677909851,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,7,18412,18412_0,0.8630193471908569,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,8,75821,75821_3,0.8628010749816895,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,9,81998,81998_2,0.8627288341522217,,False
+133,Por que despesas desnecessárias e anteriores à celebração do contrato são consideradas irregulares?,LLM,10,15042,15042_1,0.8624906539916992,,False
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,1,33936,33936_1,0.8716886639595032,,False
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,2,56336,56336_2,0.8689436912536621,,False
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,3,22116,22116_0,0.8681091070175171,,False
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,4,26874,26874_0,0.8678091168403625,2.0,True
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,5,17107,17107_1,0.8674032688140869,,False
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,6,85539,85539_1,0.8665651082992554,2.0,True
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,7,22108,22108_0,0.866351842880249,3.0,True
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,8,80979,80979_2,0.8660523891448975,3.0,True
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,9,31683,31683_0,0.8658586740493774,,False
+134,Como o vínculo trabalhista ou societário pré-existente afeta a competitividade das licitantes no certame licitatório?,LLM,10,7892,7892_3,0.8658276796340942,,False
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,1,22781,22781_0,0.8911606073379517,3.0,True
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,2,33082,33082_0,0.8815801739692688,,False
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,3,33937,33937_0,0.8809847831726074,,False
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,4,33083,33083_0,0.8802958726882935,3.0,True
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,5,34211,34211_0,0.8777408599853516,,False
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,6,31669,31669_0,0.877422034740448,3.0,True
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,7,31689,31689_0,0.8757198452949524,,False
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,8,34126,34126_2,0.8752554655075073,,False
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,9,22841,22841_0,0.8751751184463501,,False
+135,É permitido atribuir pontuação a uma empresa licitante nas licitações de técnica e preço com base na posse de determinados tipos de profissionais em seu quadro permanente?,LLM,10,22777,22777_0,0.8751056790351868,2.0,True
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,1,23590,23590_4,0.8743106126785278,,False
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,2,40621,40621_0,0.8695423603057861,,False
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,3,18309,18309_0,0.868694543838501,,False
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,4,54797,54797_4,0.8680115938186646,,False
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,5,18264,18264_0,0.8674325942993164,2.0,True
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,6,74550,74550_3,0.8668763637542725,,False
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,7,20558,20558_0,0.8666982650756836,,False
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,8,17963,17963_1,0.8666490316390991,,False
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,9,17181,17181_0,0.8659155964851379,,False
+136,Um erro material deve levar à desclassificação antecipada da proposta?,LLM,10,17180,17180_0,0.8653164505958557,,False
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,1,113541,113541_6,0.8687260746955872,3.0,True
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,2,131507,131507_4,0.863864541053772,,False
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,3,131880,131880_3,0.8561645746231079,3.0,True
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,4,102918,102918_3,0.855947732925415,,False
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,5,63706,63706_0,0.8548406362533569,,False
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,6,18301,18301_0,0.8531785011291504,,False
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,7,17017,17017_1,0.8530029058456421,,False
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,8,48260,48260_3,0.8527796268463135,,False
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,9,22147,22147_0,0.852739155292511,,False
+137,Há vedação à inclusão de novo documento destinado a atestar condição de habilitação preexistente em sede de diligência?,LLM,10,116113,116113_2,0.8523557186126709,,False
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,1,22780,22780_3,0.8867262601852417,3.0,True
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,2,22144,22144_0,0.8656430244445801,,False
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,3,22149,22149_2,0.8652830123901367,3.0,True
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,4,21919,21919_1,0.8646003007888794,,False
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,5,34242,34242_2,0.8636143207550049,,False
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,6,111333,111333_4,0.8617789149284363,,False
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,7,21939,21939_0,0.860550045967102,3.0,True
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,8,14495,14495_0,0.8595897555351257,,False
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,9,128556,128556_2,0.8592507839202881,,False
+138,A exigência de comprovação de quantitativos mínimos em obras ou serviços com características semelhantes é legal?,LLM,10,33093,33093_0,0.8592486381530762,,False
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,1,11624,11624_1,0.8675755262374878,,False
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,2,16918,16918_0,0.8657019734382629,,False
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,3,68667,68667_2,0.8648395538330078,3.0,True
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,4,68687,68687_2,0.863879919052124,,False
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,5,11678,11678_1,0.8629716634750366,,False
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,6,34995,34995_3,0.8605989217758179,3.0,True
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,7,38824,38824_0,0.8603507280349731,3.0,True
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,8,34773,34773_0,0.8600754141807556,,False
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,9,34633,34633_0,0.8597778677940369,,False
+139,Qual a extensão da sanção de impedimento de licitar e contratar?,LLM,10,44313,44313_0,0.8596130609512329,,False
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,1,135758,135758_8,0.880240797996521,3.0,True
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,2,79794,79794_3,0.8718893527984619,3.0,True
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,3,31672,31672_0,0.8710758686065674,,False
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,4,22773,22773_0,0.8709632158279419,,False
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,5,128212,128212_1,0.8684983253479004,,False
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,6,22779,22779_1,0.8666483163833618,,False
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,7,111333,111333_4,0.8663351535797119,,False
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,8,31683,31683_0,0.8661648035049438,,False
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,9,25230,25230_1,0.8653128147125244,,False
+140,Quais documentos são exigidos para habilitação técnico-operacional em certames de obras e serviços de engenharia?,LLM,10,104234,104234_0,0.8648685216903687,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,1,14280,14280_0,0.8425157070159912,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,2,14254,14254_1,0.8378610610961914,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,3,20840,20840_4,0.8347569704055786,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,4,28965,28965_0,0.8327136039733887,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,5,31368,31368_1,0.8322658538818359,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,6,42169,42169_1,0.832082986831665,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,7,14917,14917_2,0.8319815993309021,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,8,77927,77927_0,0.831373929977417,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,9,29414,29414_0,0.8313708305358887,,False
+141,Qual a finalidade do controle das autorizações de adesão?,LLM,10,25478,25478_1,0.830847442150116,,False
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,1,40328,40328_1,0.8674169182777405,3.0,True
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,2,45379,45379_1,0.8633175492286682,3.0,True
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,3,131507,131507_5,0.8513566851615906,,False
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,4,21908,21908_0,0.8506319522857666,,False
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,5,31357,31357_0,0.8502175807952881,,False
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,6,22773,22773_0,0.8495767116546631,,False
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,7,128212,128212_2,0.8489061594009399,,False
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,8,65447,65447_6,0.8488249182701111,,False
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,9,22833,22833_0,0.848753035068512,,False
+142,Em que situações a apresentação do alvará de funcionamento é permitida na habilitação jurídica?,LLM,10,113541,113541_1,0.8484928607940674,,False
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,1,20797,20797_0,0.8755594491958618,3.0,True
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,2,19506,19506_0,0.8645830154418945,2.0,True
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,3,19521,19521_0,0.8630118370056152,,False
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,4,147869,147869_0,0.8594741821289062,,False
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,5,19553,19553_0,0.8592566251754761,2.0,True
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,6,19582,19582_0,0.859027624130249,,False
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,7,33618,33618_1,0.8573722839355469,,False
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,8,59282,59282_0,0.8561328053474426,,False
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,9,31727,31727_0,0.8561320304870605,,False
+143,É permitida a acumulação do cargo de secretário municipal com o cargo de professor?,LLM,10,33448,33448_1,0.855900764465332,,False
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,1,40133,40133_0,0.8990553021430969,,False
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,2,138140,138140_1,0.8901176452636719,,False
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,3,11469,11469_3,0.8892875909805298,,False
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,4,135564,135564_0,0.888685941696167,3.0,True
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,5,37772,37772_0,0.8878980875015259,,False
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,6,54235,54235_5,0.8875594139099121,3.0,True
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,7,87667,87667_2,0.887376070022583,,False
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,8,26480,26480_0,0.8869942426681519,,False
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,9,31382,31382_0,0.8860775232315063,,False
+144,A prescrição da pretensão punitiva do TCU afeta o julgamento das contas?,LLM,10,149580,149580_1,0.8853339552879333,,False
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,1,20581,20581_0,0.8838841319084167,3.0,True
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,2,86727,86727_3,0.8783541917800903,3.0,True
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,3,61975,61975_0,0.8778792023658752,3.0,True
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,4,27209,27209_0,0.8778738379478455,3.0,True
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,5,28030,28030_0,0.873904824256897,1.0,True
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,6,85914,85914_1,0.8729506731033325,3.0,True
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,7,21291,21291_1,0.8693711757659912,,False
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,8,147560,147560_4,0.8680175542831421,,False
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,9,43507,43507_2,0.867922306060791,3.0,True
+145,O Banco de Preços em Saúde é uma referência de preços válida para a aquisição de medicamentos?,LLM,10,35676,35676_1,0.86704021692276,3.0,True
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,1,18057,18057_0,0.8466264009475708,,False
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,2,83622,83622_4,0.8458549380302429,,False
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,3,21227,21227_4,0.8446356654167175,,False
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,4,34197,34197_0,0.8444262742996216,,False
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,5,34130,34130_0,0.8441592454910278,,False
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,6,18367,18367_0,0.8434721231460571,,False
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,7,20512,20512_1,0.8427271842956543,,False
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,8,81554,81554_5,0.842544674873352,,False
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,9,18198,18198_0,0.842178463935852,2.0,True
+146,É possível a inclusão de serviços já previstos no edital em uma alteração contratual,LLM,10,17331,17331_1,0.8413683176040649,,False
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,1,26915,26915_2,0.86301589012146,,False
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,2,452,452_0,0.8607869148254395,3.0,True
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,3,20859,20859_1,0.860368013381958,,False
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,4,68513,68513_3,0.856959342956543,,False
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,5,39805,39805_5,0.8569573760032654,,False
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,6,33040,33040_0,0.8565914630889893,,False
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,7,143281,143281_4,0.856343150138855,,False
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,8,12037,12037_1,0.8557193875312805,,False
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,9,31619,31619_1,0.8552411198616028,,False
+147,O princípio da legalidade estrita pode ser afastado em favor de outros princípios no procedimento licitatório?,LLM,10,20551,20551_1,0.854925811290741,,False
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,1,43879,43879_5,0.8591212034225464,,False
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,2,151614,151614_2,0.8583606481552124,,False
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,3,43880,43880_5,0.8571826815605164,3.0,True
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,4,20532,20532_0,0.8561776876449585,,False
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,5,17124,17124_0,0.8556864261627197,2.0,True
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,6,17112,17112_0,0.8554663062095642,,False
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,7,142364,142364_0,0.853667676448822,,False
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,8,18410,18410_0,0.8535840511322021,2.0,True
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,9,42819,42819_2,0.8529465198516846,,False
+148,Quais fontes devem ser prioritárias na pesquisa de preços para a renovação do contrato de serviços de natureza continuada?,LLM,10,139562,139562_3,0.8529243469238281,2.0,True
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,1,64928,64928_2,0.8899352550506592,3.0,True
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,2,34143,34143_0,0.8582876920700073,1.0,True
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,3,31714,31714_4,0.8551887273788452,1.0,True
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,4,129558,129558_4,0.8547635674476624,,False
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,5,21929,21929_1,0.8541819453239441,,False
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,6,32920,32920_0,0.8537787795066833,3.0,True
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,7,17353,17353_2,0.8528327941894531,,False
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,8,21821,21821_2,0.8523998260498047,,False
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,9,17290,17290_2,0.8509858250617981,,False
+149,Devem ser aceitas nas contratações de software as cartas de exclusividade emitidas pelos próprios fabricantes?,LLM,10,34108,34108_0,0.8501850962638855,3.0,True
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,1,16358,16358_8,0.8626359701156616,,False
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,2,31790,31790_0,0.8600767850875854,,False
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,3,91254,91254_7,0.8591217398643494,,False
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,4,17892,17892_0,0.8588236570358276,3.0,True
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,5,34219,34219_1,0.857753336429596,2.0,True
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,6,39040,39040_0,0.8568451404571533,2.0,True
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,7,39043,39043_6,0.8565362691879272,3.0,True
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,8,54874,54874_5,0.8563250303268433,,False
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,9,34244,34244_0,0.8555566072463989,,False
+150,Qual é a regra geral para a contratação de entidade para prestação de serviços de assistência médica a servidores?,LLM,10,18234,18234_1,0.854888379573822,3.0,True

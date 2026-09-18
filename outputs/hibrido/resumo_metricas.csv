@@ -1,0 +1,21 @@
+escopo,grupo,metrica,valor
+global,todos,p_at_10,0.2553333333333334
+global,todos,r_at_10,0.21813368113368115
+global,todos,mrr_at_10,0.6043227513227514
+global,todos,ndcg_at_10,0.33440919450260176
+global,todos,judged_at_10,0.2553333333333334
+source,LLM,p_at_10,0.31
+source,LLM,r_at_10,0.27625330225330225
+source,LLM,mrr_at_10,0.659888888888889
+source,LLM,ndcg_at_10,0.40988146137417575
+source,LLM,judged_at_10,0.31
+source,expression from LLM question,p_at_10,0.28600000000000003
+source,expression from LLM question,r_at_10,0.2386925296925297
+source,expression from LLM question,mrr_at_10,0.7004444444444445
+source,expression from LLM question,ndcg_at_10,0.3849737928992934
+source,expression from LLM question,judged_at_10,0.28600000000000003
+source,search log,p_at_10,0.17
+source,search log,r_at_10,0.13945521145521145
+source,search log,mrr_at_10,0.45263492063492067
+source,search log,ndcg_at_10,0.2083723292343361
+source,search log,judged_at_10,0.17

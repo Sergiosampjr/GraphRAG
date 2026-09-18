@@ -1,0 +1,21 @@
+categoria,query_id,source,pergunta,ndcg_rag,ndcg_graphrag,delta_ndcg,num_mantidos,num_removidos,num_novos,docs_removidos,docs_novos
+MAIORES GANHOS,27,search log,inexigibilidade e singularidade,0.2090493674905263,0.5925846332364243,0.383535265745898,7,3,3,"17844,34258,52046","17146,18841,18842"
+MAIORES GANHOS,36,search log,independência das instâncias,0.1903291720738826,0.520678483059474,0.3303493109855913,8,2,2,"15325,70993","27955,31402"
+MAIORES GANHOS,76,expression from LLM question,reposição de importâncias indevidamente percebidas boa-fé servidores erro escusável por órgão/entidade,0.3145161830169477,0.6089321523881239,0.2944159693711762,7,3,3,"29831,31883,33575","29832,29854,32033"
+MAIORES GANHOS,110,LLM,Qual a responsabilidade do gestor sucessor quando o gestor antecessor omitiu o dever de prestar contas?,0.3865456313624234,0.6478837783744075,0.261338147011984,7,3,3,"712,35037,35258","34672,35329,35435"
+MAIORES GANHOS,74,expression from LLM question,prorrogação de contrato administrativo término prazo de vigência,0.3925406987695483,0.6457072009504028,0.2531665021808545,8,2,2,"18358,31031","31101,34194"
+MAIORES GANHOS,28,search log,mera participação e epp,0.1806407520095203,0.4126171234195185,0.2319763714099982,5,5,5,"26468,31766,41779,45326,52275","35182,35286,35300,44132,135549"
+MAIORES GANHOS,117,LLM,É permitida a compensação entre acréscimos e supressões nos contratos administrativos?,0.2123625795703058,0.4294789330041775,0.2171163534338717,7,3,3,"11604,20539,32639","17249,18018,18019"
+MAIORES GANHOS,42,search log,edital modificação,0.0,0.213565886210738,0.213565886210738,7,3,3,"9718,17331,18365","20856,21058,21162"
+MAIORES GANHOS,93,expression from LLM question,acumulação de cargo secretário municipal professor,0.5812500768186984,0.7874074094732795,0.206157332654581,8,2,2,"19521,20219","19539,19586"
+MAIORES GANHOS,100,expression from LLM question,assistência médica a servidores,0.2962880070651351,0.4924159029610229,0.1961278958958878,8,2,2,"19551,31687","39043,71349"
+MAIORES PERDAS,125,LLM,Qual é o problema na exigência de atestado de capacidade técnica para contratação de serviços advocatícios por conselho de fiscalização profissional?,0.6944551652854406,0.1152655228484794,-0.5791896424369612,7,3,3,"21823,33076,105994","9884,59935,115733"
+MAIORES PERDAS,75,expression from LLM question,atestado de capacidade técnica serviços advocatícios conselho de fiscalização profissional,0.5277840059680377,0.1874614937946117,-0.3403225121734259,5,5,5,"22148,26251,31024,34264,105994","17967,21873,22147,33938,135758"
+MAIORES PERDAS,97,expression from LLM question,licitação princípio da legalidade estrita afastado,0.5466435799252907,0.2354265754951419,-0.3112170044301487,9,1,1,31621,32917
+MAIORES PERDAS,111,LLM,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,0.5437038518731633,0.2466524723722597,-0.2970513795009035,9,1,1,20538,18245
+MAIORES PERDAS,99,expression from LLM question,contratações de software cartas de exclusividade,0.6067292040617378,0.3410138425426461,-0.2657153615190917,7,3,3,"13696,31714,34143","17291,17354,22492"
+MAIORES PERDAS,72,expression from LLM question,ponderação técnica e preço,0.8928408478617864,0.7036297341167596,-0.1892111137450268,7,3,3,"2966,53641,54860","20869,20969,34233"
+MAIORES PERDAS,130,LLM,Qual é a diferença entre reajuste de preços e repactuação?,0.6832229730609226,0.5086251709508762,-0.1745978021100463,9,1,1,34098,31080
+MAIORES PERDAS,64,expression from LLM question,pesquisa de mercado orçamento fornecedores,0.3923027595111151,0.2203074971970289,-0.1719952623140861,7,3,3,"15253,142364,151614","21192,21789,22167"
+MAIORES PERDAS,119,LLM,A Administração pode indicar preferência por marcas em licitações para aquisição de cartuchos de tinta?,0.6867708551176969,0.5185122427552843,-0.1682586123624125,9,1,1,13633,33056
+MAIORES PERDAS,7,search log,acréscimos e supressões,0.3195496275649209,0.1545743395783982,-0.1649752879865227,8,2,2,"5574,32639","17209,18018"

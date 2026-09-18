@@ -1,0 +1,16 @@
+query_id,query,source,precision_at_10,recall_at_10,mrr_at_10,ndcg_at_10,num_relevantes_qrel
+11,bens e serviços comuns,search log,0.0,0.0,0.0,0.0,14
+14,decreto-lei 4.657/1942,search log,0.0,0.0,0.0,0.0,10
+17,impedimento de licitar e contratar,search log,0.0,0.0,0.0,0.0,12
+21,fracionamento de despesas,search log,0.0,0.0,0.0,0.0,11
+22,novo e improrrogável prazo,search log,0.0,0.0,0.0,0.0,12
+23,inidoneidade de licitante,search log,0.0,0.0,0.0,0.0,12
+24,licitações e contratos,search log,0.0,0.0,0.0,0.0,15
+25,exigência de atestado de capacidade,search log,0.0,0.0,0.0,0.0,14
+26,contrato com a administração pública,search log,0.0,0.0,0.0,0.0,15
+29,decisão judicial,search log,0.0,0.0,0.0,0.0,15
+30,fiscal de contrato,search log,0.0,0.0,0.0,0.0,13
+32,é possível a aplicação concomitante,search log,0.0,0.0,0.0,0.0,13
+34,publicidade e concurso público,search log,0.0,0.0,0.0,0.0,11
+41,licitação e preço de mercado,search log,0.0,0.0,0.0,0.0,15
+42,edital modificação,search log,0.0,0.0,0.0,0.0,15
