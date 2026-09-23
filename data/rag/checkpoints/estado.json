@@ -1,0 +1,6 @@
+{
+  "proximo_indice": 51818,
+  "total_chunks": 51818,
+  "model_name": "intfloat/multilingual-e5-base",
+  "batch_size": 32
+}
