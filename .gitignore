@@ -1,1 +1,42 @@
+# --- Ambientes Virtuais ---
+.venv/
+venv/
+env/
+ENV/
+*.venv
+
+# --- Cache do Python e Compilações ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+
+# --- Bancos de Dados VETORIAIS e Índices Pesados ---
+*.faiss
+*.index
+*.pkl
+*.parquet
+data/rag/
+cache/
+
+# --- Arquivos de Configuração do GraphRAG ---
+# O GraphRAG gera relatórios, logs e cache pesados na execução
+output/
+ragtest/output/
+*.log
+
+# --- Variáveis de Ambiente (Segurança) ---
+# NUNCA suba chaves de API do OpenAI, Azure, Anthropic, etc.
 .env
+.env.local
+.env.*.local
+
+# --- Ambientes do Anaconda/Conda (já que você está com base no terminal) ---
+.conda/
+
+# --- Configurações de Editores e Sistema ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

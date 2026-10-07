@@ -1,0 +1,128 @@
+query_id,source,pergunta,arquitetura,modelo_gerador,status,latencia_segundos,tentativas,num_documentos,total_tokens_chunks,doc_ids,chunk_ids,resposta,erro
+1,search log,técnica e preço,graphrag,gemini-3.6-flash,ok,11.411398002999931,1,10,3555,"[20506, 20970, 21207, 33887, 20584, 31526, 21064, 21285, 31594, 20869]","[""20506_0"", ""20970_1"", ""21207_0"", ""33887_0"", ""20584_0"", ""31526_0"", ""21064_0"", ""21285_0"", ""31594_0"", ""20869_0""]","Com base no contexto fornecido, a licitação do tipo **técnica e preço** é regida pelas seguintes diretrizes:
+
+### 1. Cabimento e Regra Geral
+* **Excepcionalidade:** A licitação de técnica e preço é uma exceção (sendo o menor preço a regra) e aplica-se a situações em que esteja devidamente caracterizada a natureza predominantemente intelectual da maior parte do objeto [DOC_20584].
+* **Justificativa obrigatória:** A opção pelo uso do tipo técnica e preço deve ser devidamente justificada no processo licitatório [DOC_20584, DOC_20970].
+
+### 2. Ponderação e Pesos entre Técnica e Preço
+* **Fundamentação dos pesos:** Os fatores de ponderação e a atribuição de pesos diferenciados ou desproporcionais entre a proposta técnica e a de preço devem ser expressamente fundamentados no processo licitatório e/ou no instrumento convocatório, demonstrando a razoabilidade da escolha [DOC_20506, DOC_20869, DOC_21064].
+* **Compatibilidade e não limitação da economia:** A valoração do aspecto técnico deve ser em nível necessário e suficiente, sem restringir a competitividade ou desestimular propostas mais econômicas, evitando que diferenças técnicas não substanciais provoquem aumento indevido de preço [DOC_20506].
+* **Preponderância da técnica:** Admite-se a preponderância da nota técnica sobre a de preço caso seja condizente com a complexidade do objeto e não restrinja a competitividade [DOC_21064].
+* **Transparência na ponderação:** Deve haver estrita correlação entre os pesos dos índices técnico e de preço, bem como a publicação de planilha com a contribuição percentual de cada atributo em relação ao total da avaliação técnica [DOC_20970].
+
+### 3. Critérios de Avaliação e Julgamento Técnico
+* **Objetividade e clareza:** A pontuação do item técnico exige critérios consistentemente estruturados e fundamentados para minimizar a subjetividade [DOC_21207]. A ausência de critérios para a gradação das notas viola os princípios da igualdade e do julgamento objetivo [DOC_20584].
+* **Nota mínima:** É admissível a exigência de nota mínima para a valorização/classificação da proposta técnica [DOC_21064, DOC_21285].
+* **Pertinência dos atributos:** Devem ser evitados atributos que não sirvam para avaliar aspectos relevantes do serviço ou aferir a qualidade técnica da proposta [DOC_20970].
+
+### 4. Vedações na Pontuação Técnica
+É irregular e viola o caráter competitivo e/ou a isonomia atribuir pontuação técnica com base em:
+* **Tempo de atividade/existência:** Atribuição de pontos pelo tempo de existência ou tempo de atividade da licitante no mercado ou na prestação de serviços [DOC_33887, DOC_31526].
+* **Contratações anteriores:** Concessão de pontos por contratos anteriores celebrados com a própria entidade licitante ou com outras entidades do Sistema S [DOC_31526, DOC_31594].",
+1,search log,técnica e preço,rag,gemini-3.6-flash,ok,10.30906376400003,1,10,3684,"[20584, 33887, 20506, 18324, 20970, 31526, 21207, 21064, 21285, 18894]","[""20584_0"", ""33887_0"", ""20506_0"", ""18324_0"", ""20970_1"", ""31526_0"", ""21207_0"", ""21064_0"", ""21285_0"", ""18894_0""]","Com base exclusivamente nos documentos fornecidos, as orientações jurisprudenciais sobre a licitação do tipo **técnica e preço** estabelecem que:
+
+### 1. Cabimento e Justificativa
+* **Caráter excepcional:** Trata-se de um tipo licitatório reservado a situações especialíssimas, sendo a regra a licitação de menor preço [DOC_20584].
+* **Natureza intelectual:** A utilização de técnica e preço é vedada quando não estiver devidamente caracterizada a natureza predominantemente intelectual da maior parte do objeto [DOC_20584].
+* **Obrigação de fundamentar:** A Administração deve apresentar justificativa explícita no processo licitatório para demonstrar a adequação do uso do tipo técnica e preço ao objeto pretendido [DOC_20584].
+
+### 2. Critérios de Avaliação e Objetividade do Julgamento
+* **Objetividade e gradação de notas:** É obrigatória a estipulação de critérios consistentemente estruturados para a gradação das notas técnicas, visando fundamentar o julgamento, minimizar a subjetividade e garantir os princípios da igualdade e do julgamento objetivo [DOC_20584, DOC_21207].
+* **Vedação a critérios restritivos:** É indevida ou irregular a atribuição de pontos na proposta técnica motivada exclusivamente pelo tempo de existência/atividade da licitante no mercado ou por contratações anteriores da empresa com a própria entidade licitante ou órgãos do Sistema ""S"", pois tais exigências restringem o caráter competitivo e ferem a isonomia [DOC_33887, DOC_31526].
+* **Pertinência dos quesitos:** Devem-se evitar atributos que frustrem a competitividade ou não sirvam para avaliar aspectos relevantes e a efetiva qualidade técnica do serviço proposta [DOC_20970].
+* **Nota mínima:** É admissível exigir nota mínima nos quesitos de avaliação técnica para a valorização/classificação da proposta [DOC_21064, DOC_21285].
+
+### 3. Ponderação e Pesos entre Técnica e Preço
+* **Fundamentação dos pesos:** Os fatores de ponderação e os pesos atribuídos às propostas de técnica e de preço devem ser expressamente fundamentados no processo e no instrumento convocatório [DOC_20506, DOC_20970, DOC_21064].
+* **Preponderância da técnica:** Admite-se a preponderância da técnica sobre o preço desde que seja condizente com a complexidade do objeto e não restrinja injustificadamente a competitividade nem reduza o estímulo à oferta de propostas mais econômicas [DOC_20506, DOC_21064].
+* **Transparência:** É necessário publicar planilha informando a contribuição percentual de cada atributo técnico na avaliação global [DOC_20970].
+
+### 4. Limitação ao Orçamento de Referência
+* **Teto de preço:** A regra de limitação das propostas de preço ao orçamento de referência da licitação também é aplicável às licitações do tipo técnica e preço [DOC_18324].",
+102,LLM,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,graphrag,gemini-3.6-flash,ok,6.843540785999949,1,10,3181,"[25480, 26236, 25257, 32813, 139391, 25600, 31302, 41964, 40940, 63]","[""25480_0"", ""26236_0"", ""25257_2"", ""32813_0"", ""139391_0"", ""25600_1"", ""31302_0"", ""41964_3"", ""40940_0"", ""63_0""]","Sim. A citação é considerada válida quando o falecimento do responsável ocorre após o término do prazo para o encaminhamento da defesa, independentemente de ter sido apresentada ou não [DOC_139391]. Nesses casos, considera-se satisfeito o princípio do contraditório e da ampla defesa, sem prejuízo à validade do julgamento das contas do falecido [DOC_139391].",
+52,expression from LLM question,citação válida falecimento,rag,gemini-3.6-flash,ok,5.630263170000035,1,10,2845,"[139391, 26236, 24280, 40940, 32813, 46654, 24244, 14815, 25405, 29837]","[""139391_0"", ""26236_0"", ""24280_1"", ""40940_0"", ""32813_0"", ""46654_4"", ""24244_2"", ""14815_1"", ""25405_1"", ""29837_2""]","Com base no contexto fornecido, a validade da citação em caso de falecimento do responsável observa as seguintes regras:
+
+* **Falecimento ocorrido após o término do prazo de defesa:** Se o falecimento do responsável ocorrer após o término do prazo para a apresentação de defesa (tenha ela sido apresentada ou não), a citação é considerada **válida**. Nessas condições, consideram-se satisfeitos os princípios do contraditório e da ampla defesa, sem prejuízo à validade do julgamento das contas [DOC_139391].
+* **Citação realizada após o falecimento:** A citação efetuada ao gestor por via editalícia **após o seu falecimento não é válida**. Nessa hipótese, faz-se necessária a citação do espólio (por meio de seu inventariante) ou dos herdeiros e legítimos sucessores [DOC_40940].",
+102,LLM,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,hibrido,gemini-3.6-flash,ok,6.9724382770000375,1,10,3171,"[25257, 139391, 26236, 32813, 25480, 25600, 63, 40940, 24244, 31302]","[""25257_2"", ""139391_0"", ""26236_0"", ""32813_0"", ""25480_0"", ""25600_1"", ""63_0"", ""40940_0"", ""24244_2"", ""31302_0""]","Sim. Quando o falecimento do responsável ocorre após o término do prazo para o encaminhamento da defesa, independentemente de ela ter sido apresentada ou não, a citação é considerada válida [DOC_139391]. Nessa situação, consideram-se satisfeitos os princípios do contraditório e da ampla defesa, sem prejuízo para a validade do julgamento das contas do falecido [DOC_139391].",
+51,expression from LLM question,concessão remunerada de uso de bens públicos modalidade,graphrag,gemini-3.6-flash,ok,7.181663681999908,1,10,4166,"[18426, 31277, 31281, 31251, 14270, 31280, 17128, 14862, 40888, 17360]","[""18426_0"", ""31277_0"", ""31281_0"", ""31251_0"", ""14270_0"", ""31280_0"", ""17128_0"", ""14862_0"", ""40888_0"", ""17360_0""]","Com base nos documentos fornecidos:
+
+* **Modalidade de Licitação:** É recomendável e plenamente legal a utilização da modalidade **pregão** (com critério de julgamento pela maior oferta) para a concessão remunerada de uso de bens públicos [DOC_17360].
+* **Modalidade de Outorga:** A modalidade de outorga aplicável à concessão de áreas para exploração comercial (como restaurantes e lanchonetes em órgãos/empresas públicas) é a **concessão administrativa de uso de bem público**, que constitui ato bilateral (contrato) e deve ser previamente licitado [DOC_18426], [DOC_31277].",
+2,search log,restos a pagar,graphrag,gemini-3.6-flash,ok,32.76073639100014,1,10,2754,"[32869, 17289, 19084, 18432, 52046, 18452, 77959, 43657, 19664, 91275]","[""32869_0"", ""17289_0"", ""19084_0"", ""18432_0"", ""52046_3"", ""18452_0"", ""77959_4"", ""43657_3"", ""19664_0"", ""91275_6""]","Com base na jurisprudência fornecida no contexto documental, as principais diretrizes sobre a matéria de **Restos a Pagar** são:
+
+* **Prorrogação de vigência:** Havendo interesse público que justifique a prorrogação de restos a pagar mediante decreto, o ato normativo deve ser editado obrigatoriamente dentro do prazo de vigência destes, sendo ilegal a sua edição em data posterior [DOC_32869].
+* **Respeito aos princípios da anualidade e da razoabilidade:**
+  * O uso desmesurado de inscrições e reinscrições na rubrica de restos a pagar desvirtua o princípio da anualidade orçamentária e a natureza excepcional do instituto, transformando-o indevidamente em uma modalidade comum de execução da despesa [DOC_17289, DOC_77959].
+  * Não compete ao TCU fixar teto para limitar o montante das inscrições em restos a pagar; cabe à STN/MF e à SOF/MP estabelecer esses parâmetros. Contudo, não é admitida a utilização em valores que desrespeitem os princípios da razoabilidade e da anualidade [DOC_19084].
+* **Proibições e restrições específicas:**
+  * **Diárias:** A Administração não deve inscrever diárias em restos a pagar, uma vez que estas possuem características próprias para serem pagas no exercício de sua competência [DOC_18432].
+  * **Serviços subsequentes e convênios:** É vedada a inscrição em restos a pagar de despesas cujos serviços iniciem apenas no ano subsequente, devendo a Administração evitar deixar saldo na conta de Restos a Pagar Liquidados no Exercício Anterior referentes a empenhos de diárias e de convênios em vigência [DOC_18452].",
+51,expression from LLM question,concessão remunerada de uso de bens públicos modalidade,rag,gemini-3.6-flash,ok,5.041025227000091,1,10,3968,"[18426, 31281, 15470, 31277, 14270, 17128, 14862, 40888, 2845, 17360]","[""18426_0"", ""31281_0"", ""15470_0"", ""31277_0"", ""14270_0"", ""17128_0"", ""14862_0"", ""40888_0"", ""2845_1"", ""17360_0""]","Com base nos documentos fornecidos:
+
+1. **Modalidade de Licitação:** É recomendável e plenamente legal a utilização da modalidade **pregão** (com critério de julgamento na maior oferta) para a concessão remunerada de uso de bens públicos [DOC_2845, DOC_17360]. Além disso, a legislação antiga (Decreto-lei 9.760/1946) previa a concorrência pública para a locação/concessão remunerada desses bens [DOC_2845].
+2. **Modalidade de Outorga:** A modalidade de outorga aplicável para a cessão de áreas destinadas a determinados usos (como exploração de restaurantes e lanchonetes) é a **concessão administrativa de uso de bem público**, caracterizada como um ato bilateral de natureza contratual e devendo ser previamente licitada [DOC_18426, DOC_31277].",
+52,expression from LLM question,citação válida falecimento,graphrag,gemini-3.6-flash,ok,38.642725015999986,1,10,3195,"[26236, 139391, 24280, 40940, 32813, 46654, 31302, 24278, 29837, 24244]","[""26236_0"", ""139391_0"", ""24280_1"", ""40940_0"", ""32813_0"", ""46654_4"", ""31302_0"", ""24278_1"", ""29837_2"", ""24244_2""]","Com base no contexto fornecido, a validade da citação em casos de falecimento do responsável depende do momento em que o óbito ocorre em relação aos atos do processo:
+
+* **É válida:** A citação é considerada válida quando o falecimento do responsável ocorre **após** o término do prazo para o encaminhamento da defesa, independentemente de a defesa ter sido apresentada ou não [DOC_139391]. Nessa hipótese, consideram-se satisfeitos os princípios do contraditório e da ampla defesa, sem prejuízo para a validade do julgamento [DOC_139391].
+* **Não é válida:** A citação realizada (por via editalícia) **após** o falecimento do gestor não se configura válida [DOC_40940]. Nessa situação, é necessário refazer o procedimento citando o espólio (por meio do inventariante) ou os seus herdeiros/legítimos sucessores [DOC_40940].",
+2,search log,restos a pagar,rag,gemini-3.6-flash,ok,123.59457608299999,1,10,2950,"[17289, 18432, 32869, 19084, 43657, 52046, 33443, 19664, 91275, 18452]","[""17289_0"", ""18432_0"", ""32869_0"", ""19084_0"", ""43657_3"", ""52046_3"", ""33443_0"", ""19664_0"", ""91275_6"", ""18452_0""]","Com base no contexto fornecido, as regras e entendimentos aplicáveis à rubrica de **Restos a Pagar** incluem:
+
+* **Princípio da Anualidade e Excepcionalidade:** O uso desmesurado de inscrições e reinscrições em Restos a Pagar desvirtua o princípio da anualidade orçamentária, transformando uma ferramenta excepcional em modalidade ampla de execução de despesa e criando uma atípica plurianualidade orçamentária [DOC_17289].
+* **Definição de Parâmetros e Limites:** Não compete ao TCU fixar teto limite para inscrições em restos a pagar. Cabe à STN/MF e à SOF/MP estabelecer esses parâmetros, desde que não configurem desrespeito aos princípios da anualidade, da razoabilidade e do caráter de excepcionalidade da medida [DOC_19084].
+* **Vedações quanto a Diárias e Serviços Futuros:** 
+  * A Administração não deve inscrever diárias em restos a pagar, pois devem ser pagas no exercício de sua competência [DOC_18432].
+  * Deve-se abster de inscrever despesas cujos serviços só terão início no ano subsequente, além de evitar deixar saldo na conta ""Restos a Pagar Liquidados no Exercício Anterior"" provenientes de empenhos de diárias e de convênios em vigência [DOC_18452].
+* **Prorrogação de Vigência:** Havendo razões de interesse público para prorrogar a vigência de restos a pagar mediante decreto, é ilegal que essa prorrogação ocorra após expirada a vigência original; o ato regulamentar deve ser editado dentro do prazo de vigência dos restos a pagar [DOC_32869].",
+101,LLM,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,graphrag,gemini-3.6-flash,ok,7.686702091000143,1,10,4451,"[16247, 17285, 17360, 14270, 2845, 31277, 18426, 16245, 40888, 17128]","[""16247_0"", ""17285_0"", ""17360_0"", ""14270_0"", ""2845_1"", ""31277_0"", ""18426_0"", ""16245_0"", ""40888_0"", ""17128_0""]","A modalidade de licitação recomendada pela jurisprudência para a concessão remunerada de uso de bens públicos é o **pregão** [DOC_17360, DOC_2845]. 
+
+Ademais, o Decreto-Lei 9.760/1946 prevê expressamente para a locação de bens do domínio público a utilização da **concorrência pública** [DOC_2845].",
+52,expression from LLM question,citação válida falecimento,hibrido,gemini-3.6-flash,ok,27.805355385999974,1,10,3200,"[139391, 26236, 24280, 40940, 32813, 46654, 24244, 29837, 31302, 14815]","[""139391_0"", ""26236_0"", ""24280_1"", ""40940_0"", ""32813_0"", ""46654_4"", ""24244_2"", ""29837_2"", ""31302_0"", ""14815_1""]","Com base no contexto fornecido, a validade da citação em casos de falecimento do responsável é definida das seguintes formas:
+
+* **Falecimento após o prazo da defesa:** Se o falecimento do responsável ocorrer **após o término do prazo** para o encaminhamento da defesa (tenha ela sido apresentada ou não), a citação é considerada **válida**, estando satisfeitos os princípios do contraditório e da ampla defesa, sem prejuízo para a validade do julgamento das contas do falecido [DOC_139391].
+* **Citação efetuada após o falecimento:** A citação realizada ao gestor por via editalícia **após o seu falecimento** **não é válida** [DOC_40940]. Nessa hipótese, torna-se necessária a citação do espólio (representado pelo inventariante) ou dos herdeiros e legítimos sucessores [DOC_40940].",
+101,LLM,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,hibrido,gemini-3.6-flash,ok,7.349875803000032,1,10,4540,"[16247, 17360, 17285, 2845, 40888, 14270, 17128, 31277, 16245, 118313]","[""16247_0"", ""17360_0"", ""17285_0"", ""2845_1"", ""40888_0"", ""14270_0"", ""17128_0"", ""31277_0"", ""16245_0"", ""118313_1""]","Com base no contexto fornecido, a jurisprudência do Tribunal recomenda a utilização da modalidade **pregão** para a concessão remunerada de uso de bens públicos [DOC_17360, DOC_2845]. 
+
+Ademais, o contexto menciona que, nos termos do Decreto-lei 9.760/1946, exige-se a **concorrência pública** para a locação de bens do domínio público patrimonial (conceituada como concessão remunerada de uso) [DOC_2845].",
+1,search log,técnica e preço,hibrido,gemini-3.6-flash,ok,15.717374950000021,1,10,3560,"[20506, 20584, 33887, 20970, 21207, 31526, 21064, 21285, 18324, 31594]","[""20506_0"", ""20584_0"", ""33887_0"", ""20970_1"", ""21207_0"", ""31526_0"", ""21064_0"", ""21285_0"", ""18324_0"", ""31594_0""]","Com base nos documentos fornecidos, as regras e entendimentos aplicáveis às licitações do tipo **técnica e preço** são:
+
+### 1. Cabimento e Justificativa
+* **Caráter excepcional:** O tipo técnica e preço é uma exceção (sendo a regra a licitação de menor preço) e deve ser utilizado para serviços de natureza predominantemente intelectual, mediante prévia e devida justificativa no processo licitatório [DOC_20584].
+
+### 2. Critérios de Julgamento e Objetividade
+* **Gradação e objetividade:** A falta de critérios para a gradação das notas técnicas viola os princípios da igualdade e do julgamento objetivo [DOC_20584]. As pontuações devem advir de critérios consistentemente estruturados para minimizar a subjetividade [DOC_21207].
+* **Compatibilidade com o objeto:** Os critérios de pontuação e valoração devem ser compatíveis com o objeto licitado, valorando o aspecto técnico em nível necessário e suficiente, sem restringir injustificadamente a competitividade ou desestimular propostas econômicas [DOC_20506].
+
+### 3. Ponderação e Pesos entre Técnica e Preço
+* **Fundamentação dos pesos:** Os fatores de ponderação e os pesos atribuídos às notas de técnica e de preço devem ser estritamente correlacionados e expressamente fundamentados no processo e no instrumento convocatório, demonstrando razoabilidade e evitando privilégios ou aumentos indevidos de preço por diferenças técnicas irrelevantes [DOC_20506, DOC_20970, DOC_21064].
+* **Preponderância da técnica:** Admite-se a preponderância da nota técnica sobre a de preço desde que seja condizente com a complexidade do objeto e não restrinja a competitividade [DOC_21064].
+* **Transparência:** Deve-se publicar planilha com a contribuição percentual de cada atributo técnico em relação ao total da avaliação [DOC_20970].
+
+### 4. Requisitos Admissíveis e Limites
+* **Nota mínima:** É admissível a exigência de nota mínima na avaliação técnica para fins de classificação/valorização da proposta, devendo a justificativa constar no instrumento convocatório [DOC_21064, DOC_21285].
+* **Orçamento de referência:** A limitação das propostas de preço ao orçamento de referência da licitação também se aplica ao tipo técnica e preço [DOC_18324].
+
+### 5. Vedações na Pontuação Técnica
+É irregular e indevido atribuir pontuação técnica com base em:
+* Tempo de existência ou de atividade da empresa licitante no mercado [DOC_33887, DOC_31526, DOC_31594];
+* Contratações anteriores da licitante pela própria entidade promotora do certame ou por entidades do Sistema S [DOC_31526, DOC_31594];
+* Atributos técnicos que frustrem o caráter competitivo, não indiquem maior capacidade do fornecedor ou não meçam aspectos relevantes do serviço [DOC_20970].",
+2,search log,restos a pagar,hibrido,gemini-3.6-flash,ok,13.292834207999931,1,10,2950,"[17289, 32869, 18432, 19084, 52046, 43657, 18452, 19664, 91275, 33443]","[""17289_0"", ""32869_0"", ""18432_0"", ""19084_0"", ""52046_3"", ""43657_3"", ""18452_0"", ""19664_0"", ""91275_6"", ""33443_0""]","Com base nos documentos fornecidos, as regras e jurisprudências sobre **Restos a Pagar** estabelecem que:
+
+* **Princípio da Anualidade e Excepcionalidade:** O uso desmesurado de inscrições e reinscrições de obrigações financeiras em Restos a Pagar desvirtua o princípio da anualidade orçamentária, criando uma plurianualidade atípica e transformando uma ferramenta de exceção em prática comum [DOC_17289]. Não se admite a utilização em montante que ofenda os princípios da anualidade e da razoabilidade ou que seja incompatível com o caráter de excepcionalidade da rubrica [DOC_19084].
+* **Definição de Limites:** Não compete ao Tribunal de Contas da União (TCU) fixar teto para limitar a utilização da inscrição em restos a pagar; a responsabilidade pelo estabelecimento de tais parâmetros é da STN/MF e da SOF/MP [DOC_19084].
+* **Prorrogação de Vigência:** Caso haja razões de interesse público para prorrogar restos a pagar mediante decreto, é ilegal que a prorrogação ocorra após expirada a sua vigência; o ato deve ser editado obrigatoriamente dentro do prazo de vigência [DOC_32869].
+* **Vedações Relativas a Diárias e Serviços Futuros:**
+  * **Diárias:** A Administração não deve inscrever diárias em restos a pagar, pois, por suas características, elas devem ser pagas no exercício de competência [DOC_18432]. Também deve ser evitado saldo na conta ""Restos a Pagar Liquidados no Exercício Anterior"" proveniente de diárias e de convênios em vigência [DOC_18452].
+  * **Serviços no Ano Subsequente:** A Administração deve abster-se de inscrever em restos a pagar despesas referentes a serviços que só terão início no ano seguinte [DOC_18452].",
+51,expression from LLM question,concessão remunerada de uso de bens públicos modalidade,hibrido,gemini-3.6-flash,ok,6.909600118000071,1,10,3973,"[18426, 31281, 31277, 14270, 17128, 14862, 40888, 17360, 15470, 31251]","[""18426_0"", ""31281_0"", ""31277_0"", ""14270_0"", ""17128_0"", ""14862_0"", ""40888_0"", ""17360_0"", ""15470_0"", ""31251_0""]","Com base nos documentos fornecidos:
+
+1. **Modalidade de Licitação:** É recomendável a utilização da modalidade **pregão** para a licitação destinada à concessão remunerada de uso de bens públicos (como áreas comerciais), sendo considerado legal o critério de julgamento pela maior oferta [DOC_17360].
+2. **Modalidade de Outorga/Ajuste:** A modalidade de outorga aplicável para a exploração de espaços e áreas públicas (como restaurantes, lanchonetes e áreas comerciais) é a **concessão administrativa de uso de bem público** [DOC_18426, DOC_31277]. Trata-se de um ato bilateral de natureza contratual, de caráter *intuitu personae*, que deve ser obrigatoriamente precedido de licitação [DOC_18426, DOC_31277, DOC_14862].",
+101,LLM,Qual é a modalidade de licitação adequada para a concessão remunerada de uso de bens públicos?,rag,gemini-3.6-flash,ok,5.30578988100001,1,10,4540,"[16247, 40888, 17360, 2845, 17128, 17285, 118313, 14270, 16245, 31277]","[""16247_0"", ""40888_0"", ""17360_0"", ""2845_1"", ""17128_0"", ""17285_0"", ""118313_1"", ""14270_0"", ""16245_0"", ""31277_0""]","Com base no contexto fornecido:
+
+A jurisprudência recomenda a utilização da modalidade **pregão** para a concessão remunerada de uso de bens públicos [DOC_17360, DOC_2845], utilizando o critério do maior preço/oferta [DOC_17360, DOC_2845]. 
+
+Ademais, menciona-se que a norma legal do Decreto-Lei 9.760/1946 estabelece a realização por **concorrência pública** [DOC_2845].",
+102,LLM,A citação é considerada válida após o falecimento do responsável se a defesa já foi apresentada?,rag,gemini-3.6-flash,ok,141.557443616,1,10,3166,"[139391, 25257, 32813, 63, 26236, 24244, 25600, 40940, 33894, 25480]","[""139391_0"", ""25257_2"", ""32813_0"", ""63_0"", ""26236_0"", ""24244_2"", ""25600_1"", ""40940_0"", ""33894_0"", ""25480_0""]","Sim. A citação é considerada válida, e os princípios do contraditório e da ampla defesa são considerados satisfeitos, quando o falecimento do responsável ocorre após o término do prazo para o encaminhamento da defesa, independentemente de ela ter sido apresentada ou não, sem prejuízo à validade do julgamento das contas do falecido [DOC_139391].",

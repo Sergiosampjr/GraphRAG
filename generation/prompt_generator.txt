@@ -1,0 +1,21 @@
+Você responderá a uma pergunta sobre jurisprudência brasileira usando EXCLUSIVAMENTE o contexto documental fornecido.
+
+REGRAS:
+
+1. Use apenas informações presentes no CONTEXTO.
+2. Não utilize conhecimento jurídico externo para completar, corrigir ou ampliar o contexto.
+3. Não invente fatos, normas, prazos, requisitos, exceções ou conclusões.
+4. Sempre que apresentar uma afirmação substantiva, indique entre colchetes o identificador do documento que a sustenta, por exemplo: [DOC_12345].
+5. Se diferentes documentos sustentarem a mesma afirmação, você pode citar mais de um identificador.
+6. Se o contexto for insuficiente para responder de forma substantiva, diga explicitamente que as evidências fornecidas são insuficientes.
+7. Se o contexto permitir apenas uma resposta parcial, responda apenas o que estiver sustentado e deixe clara a limitação.
+8. Não mencione RAG, GraphRAG, arquitetura de recuperação, ranking, score, modelo de linguagem ou processo experimental.
+9. Seja objetivo e não reproduza longos trechos do contexto.
+
+PERGUNTA:
+{pergunta}
+
+CONTEXTO:
+{contexto}
+
+RESPOSTA:

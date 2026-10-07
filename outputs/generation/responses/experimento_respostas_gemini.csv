@@ -1,0 +1,94 @@
+query_id,source,pergunta,arquitetura,modelo_gerador,prompt_sha256,contexto_sha256,status,latencia_segundos,tentativas,num_documentos,total_tokens_chunks,doc_ids,chunk_ids,resposta,erro
+13,search log,despesa sem cobertura contratual,graphrag,gemini-3.6-flash,ea08330fd7f42931c8836b2f7048195f9f0cdb37e2009ae5d3002f66113468c6,ce097afa1e7897110d98836c282cbb873f714406817d7a761fa1a987e96caf58,ok,10.589748491998762,1,10,3083,"[18112, 18106, 18924, 18454, 17122, 11601, 30326, 34114, 17258, 31111]","[""18112_0"", ""18106_1"", ""18924_1"", ""18454_0"", ""17122_0"", ""11601_0"", ""30326_0"", ""34114_0"", ""17258_0"", ""31111_0""]","Com base nos documentos fornecidos, as orientações e entendimentos sobre despesas ou pagamentos sem cobertura contratual são:
+
+* **Caracterização e Vedação:** A continuidade da execução de serviços após o esgotamento do prazo de vigência ou após a rescisão do ajuste caracteriza contratação de serviços sem cobertura contratual, prática que não possui amparo legal [DOC_34114]. A execução nesses termos descumpre a exigência de prévio empenho (art. 60 da Lei 4.320/1964) e configura contratação verbal, a qual é vedada pelo parágrafo único do art. 60 da Lei 8.666/1993 [DOC_34114].
+* **Planejamento e Regularização:** A Administração deve planejar adequadamente suas aquisições de bens e serviços para evitar pagamentos sem cobertura contratual [DOC_18924]. Além disso, devem ser instaurados ou concluídos procedimentos licitatórios com a finalidade de regularizar pagamentos efetuados a título indenizatório decorrentes de aquisições sem amparo contratual [DOC_18924].",
+14,search log,decreto-lei 4.657/1942,hibrido,gemini-3.6-flash,ea08330fd7f42931c8836b2f7048195f9f0cdb37e2009ae5d3002f66113468c6,8056f775f54906c017488e0785aacc4a7f0d5f2a03e52f9c01f28751c043699c,ok,8.176849265999408,1,10,2949,"[24260, 25436, 35551, 134978, 31897, 11614, 32493, 16278, 92532, 18404]","[""24260_2"", ""25436_0"", ""35551_1"", ""134978_4"", ""31897_1"", ""11614_4"", ""32493_1"", ""16278_6"", ""92532_6"", ""18404_1""]","Com base exclusivamente no contexto fornecido, o Decreto-Lei nº 4.657/1942 refere-se à Lei de Introdução ao Código Civil [DOC_35551]. 
+
+De acordo com o documento, o seu art. 3º estabelece a regra de que ninguém se escusa de cumprir a lei alegando que não a conhece [DOC_35551].
+
+O contexto fornecido limita-se a essa menção, sendo insuficiente para detalhar outros aspectos ou dispositivos contidos no referido Decreto-Lei.",
+94,expression from LLM question,prescrição da pretensão punitiva julgamento das contas,hibrido,gemini-3.6-flash,ea08330fd7f42931c8836b2f7048195f9f0cdb37e2009ae5d3002f66113468c6,2fe731fc30022f6b90ef4d373b10af7f06e190de43e5ab04cbcbbcc634604fe1,ok,50.91313991700008,1,10,3314,"[138140, 87667, 40133, 26483, 26585, 49905, 11469, 26482, 37772, 11471]","[""138140_1"", ""87667_2"", ""40133_0"", ""26483_0"", ""26585_0"", ""49905_0"", ""11469_3"", ""26482_0"", ""37772_0"", ""11471_3""]","Com base nos documentos fornecidos, as regras sobre a prescrição da pretensão punitiva do Tribunal de Contas da União (TCU) no âmbito do julgamento e processo de contas são:
+
+* **Prazo Geral e Fundamentação**: A pretensão punitiva do TCU subordina-se ao prazo prescricional decenal (10 anos) previsto no art. 205 do Código Civil [DOC_138140, DOC_26585, DOC_11469, DOC_11471, DOC_37772].
+* **Termo Inicial (Início da Contagem)**:
+  * Em regra, conta-se a partir da data de ocorrência da irregularidade sancionada [DOC_138140, DOC_11471, DOC_37772].
+  * Nos casos de inexecução do objeto pactuado, o marco inicial é a data limite para a entrega da prestação de contas final ou a data da efetiva entrega antecipada [DOC_49905].
+  * Quando o fato irregular tiver ocorrido menos de dez anos antes da vigência do Código Civil de 2002 (11/1/2003), a contagem do prazo de dez anos inicia-se em 11/1/2003 [DOC_37772, DOC_26482].
+* **Interrupção e Reinício**:
+  * A prescrição é interrompida pelo ato que ordenar a citação, a audiência ou a oitiva da parte [DOC_138140, DOC_11471, DOC_37772].
+  * Após a interrupção, o prazo recomeça a correr da data em que foi ordenada a citação, audiência ou oitiva [DOC_138140, DOC_11471, DOC_37772]. 
+  * Nas tomadas de contas, caso aceita a tese da incidência da prescrição, a prescrição interrompida somente volta a correr com o término do prazo para o julgamento destas [DOC_26483].
+* **Suspensão**: A prescrição é suspensa sempre que o responsável apresentar elementos adicionais de defesa ou quando forem necessárias diligências [DOC_138140].
+* **Natureza de Ordem Pública e Consequências**:
+  * Por ser matéria de ordem pública, a prescrição deve ser aferida de ofício (independentemente de alegação da parte) e em todos os processos pendentes de apreciação de recurso, inclusive no recurso de revisão [DOC_138140, DOC_40133].
+  * Uma vez caracterizada a prescrição da pretensão punitiva, torna-se incabível a aplicação de multa ao responsável pelo Tribunal [DOC_26482].",
+60,expression from LLM question,responsabilidade do gestor sucessor omissão do antecessor,hibrido,gemini-3.6-flash,ea08330fd7f42931c8836b2f7048195f9f0cdb37e2009ae5d3002f66113468c6,a80150d96463d958f618aab2f27eabed53b4d5962461ffcf197865181054231e,ok,50.912454728999364,1,10,3908,"[144943, 35341, 35065, 35340, 35257, 34673, 29178, 35256, 34672, 68489]","[""144943_0"", ""35341_0"", ""35065_0"", ""35340_0"", ""35257_0"", ""34673_0"", ""29178_0"", ""35256_0"", ""34672_0"", ""68489_2""]","Com base nos documentos fornecidos, a responsabilidade do gestor sucessor em relação à omissão do antecessor estrutura-se da seguinte forma:
+
+### 1. Quando o prazo final para prestação de contas vence na gestão do sucessor
+* **Possibilidade de responsabilização:** A condenação ou coresponsabilização do gestor sucessor só é cabível quando o prazo para a apresentação da prestação de contas encerra-se dentro do período de seu mandato [DOC_35065], [DOC_35256], [DOC_34673].
+* **Dever de conformidade:** O gestor sucessor não se exime de responsabilidade apenas ao encaminhar os documentos deixados pelo antecessor; ele deve assegurar que a documentação atende às exigências normativas [DOC_29178].
+* **Afastamento da responsabilidade:** A responsabilidade do sucessor é **afastada ou excluída** caso ele comprove a impossibilidade de prestar contas por falta de documentação e demonstre a adoção de medidas legais e administrativas para resguardar o patrimônio público (como a instauração de Tomada de Contas Especial, representação criminal/por improbidade ou ajuizamento de ação judicial de ressarcimento) [DOC_35340], [DOC_35257], [DOC_34673], [DOC_29178], [DOC_35256].
+* **Permanência da obrigação do antecessor:** O vencimento do prazo no mandato do sucessor não desonera o gestor antecessor do ônus de comprovar a regular aplicação dos recursos por ele gastos [DOC_144943].
+
+### 2. Quando o prazo final e a gestão dos recursos ocorreram no mandato do antecessor
+* **Ausência de débito:** Se a aplicação dos recursos, a vigência e o fim do prazo para prestação de contas ocorreram integralmente na gestão do antecessor, não cabe a imputação de débito ao gestor sucessor, devendo este ser excluído da condenação por dano aos cofres públicos [DOC_35341], [DOC_35065], [DOC_35256], [DOC_34672].
+* **Dever de adoção de providências (aplicação de multa):** Apesar de não responder pelo débito, o sucessor não fica isento da obrigação de adotar medidas judiciais ou administrativas para obter os documentos e recompor o prejuízo. A omissão em tomar tais providências enseja sua corresponsabilização e a aplicação de multa [DOC_34672].",
+89,expression from LLM question,extensão sanção de impedimento de licitar e contratar,hibrido,gemini-3.6-flash,ea08330fd7f42931c8836b2f7048195f9f0cdb37e2009ae5d3002f66113468c6,d0828813450c8d887f54915aa68fdd5d4cbc98f26f5db3ccb56d13cfb04930d6,ok,12.68938106099995,1,10,4436,"[34633, 68667, 16918, 34890, 34995, 14890, 21869, 19450, 34773, 11624]","[""34633_4"", ""68667_0"", ""16918_0"", ""34890_0"", ""34995_0"", ""14890_0"", ""21869_0"", ""19450_0"", ""34773_0"", ""11624_1""]","Com base exclusivamente no contexto fornecido, a extensão da sanção de impedimento de licitar e contratar varia de acordo com o seu fundamento legal:
+
+1. **Artigo 7º da Lei 10.520/2002 (Lei do Pregão):**
+   * O entendimento predominante aponta que os efeitos da sanção restringem-se e estendem-se a **todo o âmbito do ente federativo sancionador** (União, Estado, Distrito Federal ou Município) ao qual pertence o órgão ou entidade que a aplicou [DOC_34633], [DOC_68667], [DOC_14890], [DOC_11624].
+   * Há, contudo, registro no contexto no sentido de que a sanção do art. 7º produziria efeitos restritos apenas ao órgão ou entidade aplicador [DOC_34773].
+
+2. **Artigo 87, Inciso III, da Lei 8.666/1993 (Suspensão temporária e impedimento de contratar):**
+   * A sanção alcança **apenas o órgão ou a entidade específica que a aplicou** [DOC_34890], [DOC_34995], [DOC_14890], [DOC_34773].
+   * Embora exista enunciado indicando a extensão a toda a Administração Pública [DOC_34995], a jurisprudência destacada nos documentos indica a interpretação restritiva ao órgão/entidade sancionador [DOC_34890], [DOC_34995].",
+111,LLM,Qual é a modalidade de licitação utilizada para contratar serviços técnicos necessários à estruturação de projeto de parceria público-privada relativo a infraestrutura de rede de iluminação pública?,rag,gemini-3.6-flash,ea08330fd7f42931c8836b2f7048195f9f0cdb37e2009ae5d3002f66113468c6,0ab0e58bc7c0a1555d91d28d989b6be7ab6352576b62b136dbb9c4be53e8e5fc,ok,172.55910246299936,1,10,4765,"[44162, 44311, 18828, 54765, 85589, 142364, 118313, 44084, 44087, 20538]","[""44162_0"", ""44311_0"", ""18828_0"", ""54765_0"", ""85589_0"", ""142364_0"", ""118313_1"", ""44084_1"", ""44087_1"", ""20538_5""]","A modalidade de licitação utilizada é, em regra, o **pregão**, visto que esses serviços técnicos necessários à estruturação de projeto de parceria público-privada para a infraestrutura de rede de iluminação pública são considerados serviços comuns [DOC_44162].",
+57,expression from LLM question,cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios licitação,graphrag,gemini-3.6-flash,ea08330fd7f42931c8836b2f7048195f9f0cdb37e2009ae5d3002f66113468c6,371427d877d0eefdc33b18443f7dae9f6d7232abe4a2c05132b710cfdb82f18e,ok,7.083240972999192,1,10,4075,"[18426, 5714, 31251, 31281, 18100, 14862, 31618, 17360, 18037, 18223]","[""18426_0"", ""5714_0"", ""31251_0"", ""31281_0"", ""18100_0"", ""14862_0"", ""31618_0"", ""17360_2"", ""18037_0"", ""18223_0""]","A cessão das áreas comerciais de centrais públicas de abastecimento de gêneros alimentícios deve observar as normas atinentes à concessão remunerada de uso de bem público [DOC_5714]. 
+
+Em relação ao procedimento licitatório e à execução contratual:
+* Na licitação para essa finalidade, deve-se utilizar, preferencialmente, a modalidade de **pregão eletrônico** [DOC_5714], [DOC_17360].
+* O contrato resultante tem caráter *intuitu personae*, o que impede os concessionários de cederem ou transferirem suas posições contratuais a terceiros [DOC_14862]. Em caso de desistência do particular, a Administração deve rescindir o ajuste e realizar um novo certame licitatório [DOC_14862].",
+3,search log,aditivo a contrato,rag,gemini-3.6-flash,ea08330fd7f42931c8836b2f7048195f9f0cdb37e2009ae5d3002f66113468c6,7f68f95d79d0671b45a158c0ed142882b1591f4a711e76d3655c24f380c619b6,ok,166.51871593400028,1,10,2942,"[17225, 18365, 18057, 31123, 20512, 118408, 17210, 17226, 81554, 33922]","[""17225_0"", ""18365_0"", ""18057_0"", ""31123_0"", ""20512_1"", ""118408_5"", ""17210_0"", ""17226_0"", ""81554_0"", ""33922_1""]","Com base no contexto fornecido, as regras e diretrizes relativas à formalização e aplicação de **termo aditivo a contrato** abrangem os seguintes pontos:
+
+### 1. Obrigatoriedade e Hipóteses de Uso
+* **Obrigatório para alterações contratuais:** A celebração de termo aditivo é procedimento obrigatório para formalizar alterações nas condições pactuadas ou modificações de objeto não previstas no contrato original [DOC_17225, DOC_18057, DOC_17226].
+* **Diferença para o apostilamento:** O apostilamento não substitui a necessidade de termo aditivo para alterações quantitativas e qualitativas do objeto, servindo apenas para registrar reajustes de valor ou medidas de ordem burocrática [DOC_17226].
+* **Vedação:** É vedado o uso de termo aditivo para adotar disposições da Lei 12.462/2011, como o regime de contratação integrada [DOC_118408].
+* **Exigências ambientais:** Pode-se condicionar a continuidade contratual a termo aditivo prevendo que custos com exigências de órgãos ambientais excedentes ao previsto sejam suportados pela contratada [DOC_33922].
+
+### 2. Requisitos para Instrução Processual
+* **Justificativa técnica:** Os processos de alteração contratual devem ser instruídos com toda a documentação motivadora e conter justificativas técnicas embasadas em memoriais de cálculo [DOC_18365].
+
+### 3. Preservação do Equilíbrio Econômico-Financeiro e Descontos
+* **Manutenção das condições originais:** Ao assinar aditivos com inclusão ou supressão de itens, deve-se manter o equilíbrio de preços e não reduzir o desconto global originalmente obtido pela Administração na licitação em relação aos preços referenciais (ex.: Sicro) [DOC_18057, DOC_31123, DOC_20512].
+* **Inclusão de serviços novos:** Na celebração de aditivos em contratos de obras públicas para inserção de novos serviços, o preço deve ser calculado com base nos custos e BDI de referência do orçamento-base, subtraindo-se o percentual do desconto global obtido na licitação [DOC_81554].
+
+### 4. Cálculo dos Limites Legais de Aditamento
+* **Atualização e deflacionamento:** Para calcular os limites de aditamento (§ 1º do art. 65 da Lei 8.666/1993), deve-se atualizar o valor do contrato e dos aditivos anteriores até a data da nova alteração, ou deflacionar cada aditivo até a data-base inicial do ajuste [DOC_17210].
+* **Acréscimos e decréscimos:** Os limites percentuais incidem sobre o total dos acréscimos e o total dos decréscimos isoladamente, e não sobre o saldo líquido das alterações [DOC_17210].",
+37,search log,planejamento estratégico,graphrag,gemini-3.6-flash,ea08330fd7f42931c8836b2f7048195f9f0cdb37e2009ae5d3002f66113468c6,4ede017539e8d05791eb65e92f3db31d3b5fc53530d9ef028dacd27986c30e23,ok,38.91496697900038,1,10,3392,"[28909, 28974, 31481, 28975, 28898, 28964, 18459, 29382, 31370, 29395]","[""28909_2"", ""28974_1"", ""31481_0"", ""28975_0"", ""28898_0"", ""28964_1"", ""18459_0"", ""29382_0"", ""31370_0"", ""29395_0""]","Com base nos documentos fornecidos, o **planejamento estratégico** no âmbito da Administração Pública (especialmente voltado à governança de Tecnologia da Informação - TI) abrange as seguintes diretrizes, requisitos e etapas:
+
+### 1. Finalidade e Institucionalização
+* A Administração Pública deve instituir um processo de planejamento para organizar estratégias, ações, prazos e recursos (financeiros, humanos e materiais) com o objetivo de otimizar a gestão, aperfeiçoar o negócio institucional e minimizar o desperdício de recursos públicos ou prejuízos aos objetivos da organização [DOC_31481, DOC_29382].
+* O processo de planejamento estratégico de TI deve ser instituído, elaborado, aprovado formalmente e implementado em conformidade com o Decreto-Lei 200/1967, as normas da IN SLTI/MPOG 04/2008 e as boas práticas do Cobit 4.1 (como os processos PO - Planejamento e organização e PO1 - Planejamento Estratégico de TI) [DOC_28974, DOC_31481, DOC_28975, DOC_28964, DOC_18459].
+
+### 2. Alinhamento com os Objetivos de Negócio
+* O planejamento estratégico de TI (e o respectivo Plano Diretor de Tecnologia da Informação - PDTI) deve explicitamente vincular e alinhar seus objetivos, indicadores e metas aos objetivos de negócio constantes do plano estratégico institucional [DOC_28909, DOC_28898].
+* Esse alinhamento aplica-se também ao uso e à implantação de sistemas integrados de gestão, alinhando as orientações ao Cobit 4.1 (PO1.2 - Alinhamento entre TI e Negócio e PO1.6 - Gerenciamento do Portfólio de TI) [DOC_28898].
+
+### 3. Requisitos de Elaboração e Conteúdo Mínimo
+A elaboração do plano estratégico de TI deve contar com a participação de representantes de diversos setores da organização [DOC_28909] e contemplar, no mínimo:
+* Objetivos, indicadores e metas para a TI [DOC_28909];
+* Alocação de recursos financeiros, humanos e materiais [DOC_28909];
+* Estratégia de terceirização [DOC_28909].
+
+### 4. Governança, Acompanhamento e Transparência
+* **Aprovação:** O plano estratégico de TI deve ser aprovado pela mais alta autoridade da organização [DOC_28909, DOC_28974].
+* **Desdobramento:** Deve ser desdobrado e executado pelas unidades competentes [DOC_28909].
+* **Monitoramento:** É necessário o acompanhamento periódico do alcance das metas para a correção de desvios, com divulgação interna e externa acerca dos resultados obtidos ou das razões pelo seu não atingimento [DOC_28909].
+* **Publicidade:** O plano deve ser divulgado ao público geral, exceto nos pontos formalmente declarados sigilosos ou restritos [DOC_28909, DOC_28974].
+
+### 5. Reflexos no Orçamento e em Contratações
+* **Planejamento Orçamentário:** O planejamento financeiro de TI deve basear-se nas ações a desenvolver e estar alinhado ao PDTI e ao Planejamento Estratégico (segundo o Cobit 4.1, PO5.3), evitando a mera repetição ou reajuste de valores de anos anteriores [DOC_29382].
+* **Contratações de TI:** As contratações de serviços de TI exigem a elaboração de plano de trabalho com a justificativa prévia das necessidades harmonizada com as ações do Planejamento Estratégico Institucional e do PDTI [DOC_29395].",
