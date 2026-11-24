@@ -17,7 +17,7 @@ PROMPT_PATH = BASE_DIR / "prompt_judge.txt"
 MODELO_JUIZ = "qwen/qwen3.8-27b"
 
 # Mantido de acordo com o limite observado no seu teste.
-MAX_COMPLETION_TOKENS = 450
+MAX_COMPLETION_TOKENS = 700
 
 # Pausa entre chamadas dos testes controlados.
 TEMPO_ENTRE_CHAMADAS = 35
@@ -336,6 +336,24 @@ def chamar_juiz(entrada):
 
         except RateLimitError as erro:
 
+
+            print("\nDETALHES DO ERRO 429:")
+            print(str(erro))
+
+            if hasattr(erro, "response") and erro.response is not None:
+                print("\nCABEÇALHOS DE LIMITE:")
+                for nome, valor in erro.response.headers.items():
+                    if (
+                        "retry-after" in nome.lower()
+                        or "ratelimit" in nome.lower()
+                    ):
+                        print(f"{nome}: {valor}")
+            
+
+
+
+
+
             print(
                 f"\nRate limit da Groq atingido "
                 f"(tentativa {tentativa}/{MAX_TENTATIVAS})."
@@ -384,7 +402,22 @@ RESPOSTA:
 
     resultado = chamar_juiz(entrada)
 
-    texto = resultado.choices[0].message.content
+    escolha = resultado.choices[0]
+
+    print("Motivo de encerramento:", escolha.finish_reason)
+
+    if escolha.finish_reason == "length":
+        print(
+        "ERRO: o Qwen atingiu o limite de tokens "
+        "antes de concluir a avaliação."
+        )
+        return None
+
+    texto = escolha.message.content
+
+    if not texto:
+        print("ERRO: o Qwen retornou uma resposta vazia.")
+        return None
 
     texto = limpar_json(texto)
 

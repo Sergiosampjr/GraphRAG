@@ -12,6 +12,17 @@ CRITÉRIOS (notas inteiras de 1 a 5, somente para respostas substantivas)
 1. relevance: quanto a RESPOSTA atende diretamente à PERGUNTA, evitando desvios. Nota 5 = diretamente relevante.
 2. completeness: quanto a RESPOSTA cobre os pontos MATERIALMENTE NECESSÁRIOS para responder adequadamente à PERGUNTA, considerando apenas o que está disponível no CONTEXTO. Nota 5 = todos os pontos necessários estão cobertos; não exige reproduzir o contexto todo.
 3. correctness: quanto o conteúdo afirmado representa corretamente as evidências do CONTEXTO, sem distorções, contradições ou inferências indevidas. Nota 5 = sem erros identificáveis em relação ao contexto.
+- correctness representa a correção factual e jurídica
+  EM RELAÇÃO AO CONTEXTO fornecido.
+- Não atribua erros com base em conhecimento jurídico externo.
+- Não penalize correctness exclusivamente pela ausência
+  de informações materialmente necessárias; essa ausência
+  deve ser considerada em completeness.
+- Penalize correctness quando a resposta distorcer,
+  contradizer ou extrapolar as evidências do CONTEXTO.
+
+
+
 
 REGRA OBRIGATÓRIA DE COMPLETUDE — CALIBRAÇÃO v1.1
 - Primeiro identifique o núcleo informacional solicitado pela PERGUNTA. Avalie quais fatos, condições, qualificações e exceções presentes no CONTEXTO são indispensáveis para respondê-la.
@@ -27,6 +38,17 @@ CLAIMS (afirmações substantivas verificáveis)
 - Classifique cada claim como supported (sustentada pelo CONTEXTO) ou unsupported (não sustentada, extrapolada ou contradita pelo CONTEXTO).
 - total_claims = supported_claims + unsupported_claims. Todos os três são inteiros não negativos.
 - Em justification.unsupported_claims, liste de maneira breve cada afirmação não sustentada identificada; se nenhuma, use [].
+- Avalie a sustentação de cada claim independentemente de sua
+  relevância para a PERGUNTA.
+- Uma claim pode ser supported mesmo que seja irrelevante para
+  a PERGUNTA, desde que esteja sustentada pelo CONTEXTO.
+- NÃO classifique uma claim como unsupported apenas porque
+  ela não responde à PERGUNTA.
+- Uma claim contradita pelo CONTEXTO deve ser unsupported,
+  mesmo quando for relevante para a PERGUNTA.
+- Não confunda ausência de evidência no CONTEXTO com falsidade
+  jurídica no mundo real.
+
 
 SUFICIÊNCIA E ABSTENÇÃO
 - context_sufficient=true quando o CONTEXTO permite uma resposta substantiva adequada ao núcleo da PERGUNTA; caso contrário, false. Não exija cobertura de todos os tópicos periféricos.
@@ -57,3 +79,12 @@ Retorne SOMENTE um objeto JSON válido, sem Markdown, sem comentários e sem cam
 }
 
 O objeto acima é apenas um EXEMPLO DE ESTRUTURA; calcule os valores reais para o caso recebido.
+
+RESTRIÇÕES DE CONCISÃO
+- Cada justificativa de relevance, completeness e correctness
+  deve conter no máximo 20 palavras.
+- Em unsupported_claims, use descrições curtas, com no máximo
+  12 palavras por item.
+- Não reproduza trechos extensos da RESPOSTA ou do CONTEXTO.
+- Não explique claims sustentadas individualmente.
+- Preserve todos os campos obrigatórios do JSON.
